@@ -21,14 +21,14 @@
             width: 25%;
         }
         html {
-            scroll-padding-top: 8em; /* height of sticky header */
+            scroll-padding-top: 4em; /* height of sticky header */
         }
     </style>
 </head>
 <body style="background-color: lightgrey;">
     
         <!-- Navbar -->
-        <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand pb-0" href="#">
                     <p style="color: orange; display:inline; font-size: 2em;">ROHRING</p><p style="color: palegreen; display:inline; font-size: 2em;">STARTS</p>
@@ -43,10 +43,10 @@
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Systems
                         </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="#securitySystems">Security Systems</a></li>
-                            <li><a class="dropdown-item" href="#remoteStarters">Remote Starts</a></li>
-                            <li><a class="dropdown-item" href="#securityRemoteStart">Security and Remote Starts</a></li>
+                        <ul class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+                            <li><a class="nav-link" href="#securitySystems">Security Systems</a></li>
+                            <li><a class="nav-link" href="#remoteStarters">Remote Starts</a></li>
+                            <li><a class="nav-link" href="#securityRemoteStart">Security and Remote Starts</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
