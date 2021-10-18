@@ -20,6 +20,9 @@
             float: none !important;
             width: 25%;
         }
+        html {
+            scroll-padding-top: 8em; /* height of sticky header */
+        }
     </style>
 </head>
 <body style="background-color: lightgrey;">
@@ -91,38 +94,28 @@
                         </div>
                         <div class="row">
                             <div>
-                                <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
+                                <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
                                     KEY FEATURES AND SPECIFICATIONS &darr;
                                 </button>
                             </div>
                             <div class="collapse" id="oneWayDetail">
                                 <div class="card-body">
                                     <ul>
-                                        <li>
-                                            Clone-Safe® Code-Hopping®
-                                        </li>
-                                        <li>
-                                            Stinger® DoubleGuard® Shock Sensor
-                                        </li>
-                                        <li>
-                                            Revenger® 6-tone Siren
-                                        </li>
-                                        <li>
-                                        2 Auxiliary Outputs
-                                        </li>
-                                        <li>
-                                        Security/keyless entry system
-                                        </li>
-                                        <li>
-                                        Up to 1/4 mile range*
-                                        </li>
-                                        <li>
-                                        Includes two 1-Way remotes
-                                        </li>
-                                        <li>
-                                        Directed® SmartStart Compatible**
-                                        </li>
+                                        <li>Clone-Safe® Code-Hopping®</li>
+                                        <li>Stinger® DoubleGuard® Shock Sensor</li>
+                                        <li>Revenger® 6-tone Siren</li>
+                                        <li>2 Auxiliary Outputs</li>
+                                        <li>Security/keyless entry system</li>
+                                        <li>Up to 1/4 mile range*</li>
+                                        <li>Includes two 1-Way remotes</li>
+                                        <li>Directed® SmartStart Compatible**</li>
                                     </ul>
+                                    <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
+                                        Actual range will vary due to local conditions including, but not limited to, 
+                                        environment, terrain, physical obstructions, vehicle location and orientation, 
+                                        interference and other possible impediments.<br>
+                                        **Smartphone sold separately<br>
+                                        ***Additional parts and labor may be required</p>
                                 </div>
                             </div>
                         </div>                                        
@@ -130,7 +123,9 @@
                 </div>
             </div>
             <div class="container rounded pt-3 mb-3 bg-white">
+                
                 <div class="row">
+
                     <div class="col-3 text-center">
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
@@ -138,7 +133,9 @@
                             <p style="font-family: 'Orbitron';">Python 3305P | Responder 460</p>
                         </fieldset>               
                     </div>
+
                     <div class="col-9">
+                        
                         <div class="row">
                             <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way Security System</h3>
                             <div class="mt-3">
@@ -152,43 +149,38 @@
                         </div>
                         
                         <div class="row">
+
                             <div>
                                 <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
                                     KEY FEATURES AND SPECIFICATIONS &darr;
                                 </button>                                
                             </div>
+
                             <div class="collapse" id="twoWayDetail">
                                 <div class="card-body">
                                     <ul>
-                                        <li>
-                                        Security and keyless entry system
-                                        </li>
-                                        <li>
-                                        Clone-Safe® Code-Hopping®                                        
-                                        </li>
-                                        <li>
-                                        Stinger® DoubleGuard® Shock Sensor                                    
-                                        </li>
-                                        <li>
-                                        Revenger® 6-tone Siren                                        
-                                        </li>
-                                        <li>
-                                        2 Auxiliary Outputs
-                                        </li>
-                                        <li>                                        
-                                        Up to 1/4 mile range*                                        
-                                        </li>
-                                        <li>
-                                        Includes 1-Way companion remote
-                                        </li>
-                                        <li>
-                                        Directed® SmartStart Compatible**
-                                        </li>
+                                        <li>Security and keyless entry system</li>
+                                        <li>Clone-Safe® Code-Hopping®</li>
+                                        <li>Stinger® DoubleGuard® Shock Sensor</li>
+                                        <li>Revenger® 6-tone Siren</li>
+                                        <li>2 Auxiliary Outputs</li>
+                                        <li>Up to 1/4 mile range*</li>
+                                        <li>Includes 1-Way companion remote</li>
+                                        <li>Directed® SmartStart Compatible**</li>
                                     </ul>
+                                    <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
+                                        Actual range will vary due to local conditions including, but not limited to, 
+                                        environment, terrain, physical obstructions, vehicle location and orientation, 
+                                        interference and other possible impediments.<br>
+                                        **Smartphone sold separately<br>
+                                        ***Additional parts and labor may be required</p>
                                 </div>
                             </div>
-                        </div>    
+
+                        </div>  
+
                     </div>
+
                 </div>
             </div>
         </div>
@@ -197,36 +189,76 @@
             <h1 class="text-left" id="remoteStarters">Remote Starters</h1>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
+
                     <div class="col-3 text-center">
+
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
-                            <img class="img-fluid" src="images/4105P.png" alt="Python 3105P">
+                            <img class="img-fluid" src="images/4105P.png" alt="Python 4105P">
                             <p style="font-family: 'Orbitron';">Python 4105P</p>
-                        </fieldset>                
+                        </fieldset>   
+                                     
                     </div>
-                    <div class="col-9">
-                        <div class="row">
-                            <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System</h3>
-                            <div class="mt-3">
-                                <p style="font-size: 30px; font-family: Orbitron;">  
-                                    1-Way Remote car starting system with trunk pop, lock on lock features.*
-                                </p>
-                                <p style="font-size: 15px;">
-                                *** One way remote starters do not communicate back to the individual starting the vehicle. ***
-                                </p>
-                            </div>
-                        </div>
-                        <div class="row">
 
-                        </div>                
+                    <div class="col-9">
                         
-                        <!-- Continue to edit detail stuff -->
-                        <div class="collapse" id="oneWayDetail">
-                            <div class="card-body">
-                                <p style="font-size: 30px;">Some info about the Python 4105P</p>
+                            <div class="row">
+                                <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System</h3>
+                                <div class="mt-3">
+                                    <p style="font-size: 30px; font-family: Orbitron;">  
+                                        1-Way Remote car starting system with trunk pop, lock / unlock features.*
+                                    </p>
+                                    <p style="font-size: 15px;">
+                                    *** One way remote starters do not communicate back to the individual starting the vehicle. ***
+                                    </p>
+                                </div>
                             </div>
-                        </div>
+
+                            <div class="row">
+
+                                <div>  
+                                    <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
+                                        KEY FEATURES AND SPECIFICATIONS &darr;
+                                    </button>                                
+                                </div>
+
+                                <div class="collapse" id="oneWayRemote">
+                                    <div class="card-body">
+                                        <ul>
+                                            <li>
+                                                Up to 1/4 mile range*
+                                            </li>
+                                            <li>
+                                                Auxiliary channel
+                                            </li>
+                                            <li>
+                                                Horn Honk***
+                                            </li>
+                                            <li>
+                                                Includes two 1-Way remotes
+                                            </li>
+                                            <li>
+                                                Directed® SmartStart Compatible**
+                                            </li>
+                                            <li>
+                                                Separate ESP2 and D2D ports                                         
+                                            </li>
+                                            <li>
+                                                Onboard remote start relays   
+                                            </li>
+                                        </ul>
+                                        <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
+                                            Actual range will vary due to local conditions including, but not limited to, 
+                                            environment, terrain, physical obstructions, vehicle location and orientation, 
+                                            interference and other possible impediments.<br>
+                                            **Smartphone sold separately<br>
+                                            ***Additional parts and labor may be required</p>
+                                    </div>
+                                </div>
+                            </div> 
+                        
                     </div>
+
                 </div>
             </div>
             <div class="container rounded pt-3 mb-3 bg-white">
@@ -239,18 +271,47 @@
                         </fieldset>               
                     </div>
                     <div class="col-9">
-                        <h3 class="text-center" style="font-family: Orbitron;">LED 2-Way Remote Start System</h3>
-                        <div class="text-end" hidden>
-                            <button class="btn btn-secondary p-4" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
-                                Details
-                            </button>
+                        <div class="row">
+                            <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way Remote Start System</h3>
+                            <div class="mt-3">
+                                <p style="font-size: 30px; font-family: Orbitron;">
+                                    2-way* Remote car starting system with lock / unlock and trunk 
+                                    pop features.
+                                </p>
+                                <p class="font-size: 15px;">
+                                *** 2-way allows for communication back to indiviual that car has started. ***
+                                </p>
+                            </div>
                         </div>
-                        <div class="mt-3">
-                            <p class="text-center" style="font-size: 30px;">Some info about the Python 4806P</p>
-                        </div>
-                        <div class="collapse" id="twoWayDetail">
-                            <div class="card-body">
-                                <p style="font-size: 30px;">Some info about the Python 4806P</p>
+                        <div class="row">
+                            <div>
+                                <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
+                                KEY FEATURES AND SPECIFICATIONS &darr;
+                                </button>
+                            </div>
+                            
+                            <div class="collapse" id="twoWayRemote">
+                                <div class="card-body">
+                                    <ul>
+                                        <li>4 auxiliary channels</li>
+                                        <li>LED command confirmation</li>
+                                        <li>Horn Honk***</li>
+                                        <li>Includes 1-Way companion remote</li>
+                                        <li>Rechargeable battery</li>
+                                        <li>Directed® SmartStart Compatible**</li>
+                                        <li>Flex relay and selectable light flash polarity***</li>
+                                        <li>Manual transmission compatible***</li>
+                                        <li>Up to one mile range*</li>
+                                        <li>Separate ESP2 and D2D ports</li>
+                                        <li>Onboard remote start relays</li>
+                                    </ul>
+                                    <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
+                                        Actual range will vary due to local conditions including, but not limited to, 
+                                        environment, terrain, physical obstructions, vehicle location and orientation, 
+                                        interference and other possible impediments.<br>
+                                        **Smartphone sold separately<br>
+                                        ***Additional parts and labor may be required</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -269,19 +330,52 @@
                             <p style="font-family: 'Orbitron';">Python 5706P</p>
                         </fieldset>                
                     </div>
-                    <div class="col-9">                
-                        <h3 class="text-center" style="font-family: Orbitron;">LCD 2-Way Security and Remote Start System</h3>
-                        <div class="text-end" hidden>
-                            <button class="btn btn-secondary p-4 text-end" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
-                                Details
-                            </button>
+                    <div class="col-9">
+                        
+                        <div class="row">
+                            <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LCD 2-Way Security and Remote Start System</h3>
+                            <div class="mt-3">
+                                <p style="font-size: 30px; font-family: Orbitron;">
+                                    LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk 
+                                    pop features*
+                                </p>
+                                <p class="font-size: 15px;">
+                                *** 2-way remote control with liquid-crystal display and one 5-button 1-way remote control. ***
+                                </p>
+                            </div>
                         </div>
-                        <div class="mt-3">
-                            <p class="text-center" style="font-size: 30px;">Some info about the Python 5706P</p>
-                        </div>
-                        <div class="collapse" id="oneWayDetail">
-                            <div class="card-body">
-                                <p style="font-size: 30px;">Some info about the Python 5706P</p>
+
+                        <div class="row">
+                            <div>
+                                <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
+                                    KEY FEATURES AND SPECIFICATIONS &darr;
+                                </button>
+                            </div>
+                            
+                            <div class="collapse" id="combo">
+                                <div class="card-body">
+                                    <ul>
+                                        <li>Stinger® DoubleGuard® Shock Sensor</li>
+                                        <li>Revenger® 6-tone Siren</li>
+                                        <li>4 auxiliary channels</li>
+                                        <li>Horn Honk***</li>
+                                        <li>Includes 1-Way companion remote</li>
+                                        <li>Up to one mile range*</li>
+                                        <li>Rechargeable battery</li>
+                                        <li>Directed® SmartStart Compatible**</li>
+                                        <li>Flex relay and selectable light flash polarity***</li>
+                                        <li>Manual transmission compatible***</li>
+                                        <li>Separate ESP2 and D2D ports</li>
+                                        <li>Priority Icon map with LCD display</li>
+                                        <li>Onboard remote start relays</li>
+                                    </ul>
+                                    <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
+                                        Actual range will vary due to local conditions including, but not limited to, 
+                                        environment, terrain, physical obstructions, vehicle location and orientation, 
+                                        interference and other possible impediments.<br>
+                                        **Smartphone sold separately<br>
+                                        ***Additional parts and labor may be required</p>
+                                </div>
                             </div>
                         </div>
                     </div>
