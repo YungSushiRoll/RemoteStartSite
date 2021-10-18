@@ -67,7 +67,7 @@
         </nav>
     <div class="container">
         <!-- Security DIV -->
-        <div class="">
+        <div>
             <h1 class="text-left mt-3" id="securitySystems">Security Systems</h1>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
@@ -204,16 +204,22 @@
                             <p style="font-family: 'Orbitron';">Python 4105P</p>
                         </fieldset>                
                     </div>
-                    <div class="col-9">                
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System</h3>
-                        <div class="mt-3">
-                            <p style="font-size: 30px;">  
-                                1-Way Remote car starting system with trunk pop, lock on lock features.*
-                            </p>
-                            <p style="font-size: 15px;">
-                            *** One way remote starters do not communicate back to the individual starting the vehicle. ***
-                            </p>
+                    <div class="col-9">
+                        <div class="row">
+                            <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System</h3>
+                            <div class="mt-3">
+                                <p style="font-size: 30px; font-family: Orbitron;">  
+                                    1-Way Remote car starting system with trunk pop, lock on lock features.*
+                                </p>
+                                <p style="font-size: 15px;">
+                                *** One way remote starters do not communicate back to the individual starting the vehicle. ***
+                                </p>
+                            </div>
                         </div>
+                        <div class="row">
+
+                        </div>                
+                        
                         <!-- Continue to edit detail stuff -->
                         <div class="collapse" id="oneWayDetail">
                             <div class="card-body">
