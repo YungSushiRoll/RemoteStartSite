@@ -68,7 +68,7 @@
             </div>
         </nav>
         <div class="text-center">
-            <img src="images/rm_banner2.png" alt="" class="shadow-lg w-100">
+            <img src="images/rm_banner2.png" alt="" class=" w-100 border-top border-bottom border-5" style="border-color:#484a4a !important;">
         </div>
         
     <div class="container">
