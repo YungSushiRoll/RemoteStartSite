@@ -52,7 +52,7 @@
                     <a class="nav-link fs-5">|</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link active fs-5 fw-bold" aria-current="page" href="#">Home</a>
+                    <a class="nav-link fs-5 fw-bold" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
                     <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
