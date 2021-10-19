@@ -21,18 +21,17 @@
             width: 25%;
         }
         html {
-            scroll-padding-top: 4em; /* height of sticky header */
-        }
+            scroll-padding-top: 1em; /* height of sticky header */
+        } 
     </style>
 </head>
 <body style="background-color: lightgrey;">
-    
         <!-- Navbar -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand pb-0" href="#">
-                    <p style="color: orange; display:inline; font-size: 2em;">ROHRING</p><p style="color: palegreen; display:inline; font-size: 2em;">STARTS</p>
-                    <img src="images/logo.png" alt="" style="width: auto; height: 2em; padding-left:.5em;" class="d-inline-block mb-3">                        
+                    <!-- <p style="color: orange; display:inline; font-size: 2em;">ROHRING</p><p style="color: palegreen; display:inline; font-size: 2em;">STARTS</p> -->
+                    <img src="images/MIID.png" alt="" style="width: auto; height: 4em;" class="mb-3 img-fluid">                        
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -40,34 +39,38 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle fs-5 fw-bold" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Systems
                         </a>
-                        <ul class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
-                            <li><a class="nav-link" href="#securitySystems">Security Systems</a></li>
-                            <li><a class="nav-link" href="#remoteStarters">Remote Starts</a></li>
-                            <li><a class="nav-link" href="#securityRemoteStart">Security and Remote Starts</a></li>
+                        <ul class="dropdown-menu bg-light" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#securitySystems">Security Systems</a></li>
+                            <li><a class="dropdown-item" href="#remoteStarters">Remote Starts</a></li>
+                            <li><a class="dropdown-item" href="#securityRemoteStart">Security and Remote Starts</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link">|</a>
+                    <a class="nav-link fs-5">|</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active fs-5 fw-bold" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#securitySystems">Security Systems</a>
+                    <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#remoteStarters">Remote Starts</a>
+                    <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starts</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#securityRemoteStart">Security and Remote Starts</a>
+                    <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security and Remote Starts</a>
                     </li>
                 </ul>
                 </div>
             </div>
         </nav>
+        <div class="text-center">
+            <img src="images/rm_banner2.png" alt="" class="shadow-lg w-100">
+        </div>
+        
     <div class="container">
         <!-- Security DIV -->
         <div>
@@ -94,8 +97,8 @@
                         </div>
                         <div class="row">
                             <div>
-                                <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
-                                    KEY FEATURES AND SPECIFICATIONS &darr;
+                                <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
+                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                                 </button>
                             </div>
                             <div class="collapse" id="oneWayDetail">
@@ -151,8 +154,8 @@
                         <div class="row">
 
                             <div>
-                                <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
-                                    KEY FEATURES AND SPECIFICATIONS &darr;
+                                <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
+                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                                 </button>                                
                             </div>
 
@@ -217,8 +220,8 @@
                             <div class="row">
 
                                 <div>  
-                                    <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
-                                        KEY FEATURES AND SPECIFICATIONS &darr;
+                                    <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
+                                        &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                                     </button>                                
                                 </div>
 
@@ -285,8 +288,8 @@
                         </div>
                         <div class="row">
                             <div>
-                                <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
-                                KEY FEATURES AND SPECIFICATIONS &darr;
+                                <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
+                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                                 </button>
                             </div>
                             
@@ -347,8 +350,8 @@
 
                         <div class="row">
                             <div>
-                                <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
-                                    KEY FEATURES AND SPECIFICATIONS &darr;
+                                <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
+                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                                 </button>
                             </div>
                             
