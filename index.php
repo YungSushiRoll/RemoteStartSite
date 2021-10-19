@@ -36,7 +36,7 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse justify-content-center" style="margin-left: -11em;" id="navbarNav">
+                <div class="collapse navbar-collapse justify-content-center" style="margin-left: -11.5em;" id="navbarNav">
                 <ul class="navbar-nav ">
                     <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle fs-5 fw-bold" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
