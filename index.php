@@ -31,14 +31,14 @@
             <div class="container-fluid">
                 <a class="navbar-brand pb-0" href="#">
                     <!-- <p style="color: orange; display:inline; font-size: 2em;">ROHRING</p><p style="color: palegreen; display:inline; font-size: 2em;">STARTS</p> -->
-                    <img src="images/MIID.png" alt="" style="width: auto; height: 4em;" class="mb-3 img-fluid">                        
+                    <img src="images/MIID.png" alt="" style="width: auto; height: 4em;" class="ms-4 mb-3 img-fluid">                        
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item dropdown">
+                <div class="collapse navbar-collapse justify-content-center" style="margin-left: -11em;" id="navbarNav">
+                <ul class="navbar-nav ">
+                    <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle fs-5 fw-bold" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Systems
                         </a>
@@ -47,10 +47,10 @@
                             <li><a class="dropdown-item" href="#remoteStarters">Remote Starts</a></li>
                             <li><a class="dropdown-item" href="#securityRemoteStart">Security and Remote Starts</a></li>
                         </ul>
-                    </li>
-                    <li class="nav-item">
+                    </li> -->
+                    <!-- <li class="nav-item">
                     <a class="nav-link fs-5">|</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                     <a class="nav-link fs-5 fw-bold" aria-current="page" href="#">Home</a>
                     </li>
