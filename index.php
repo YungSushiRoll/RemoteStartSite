@@ -62,7 +62,7 @@
             font-weight: bold;
             font-size: 2em;
             font-style: italic;
-            margin-bottom: 1em;
+            margin-top: 2em;
         }
         div li, div p{
             font-family: 'Asap', sans-serif;
@@ -131,7 +131,7 @@
                     <div class="col-9 btnDiv">
                         <div class="row">
                             <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Security System - Installed</h3>
-                            <div class="mt-5">
+                            <div>
                                 <p class="itemDesc">
                                     An entry level security system that controls: lock/unlock, trunk pop, 
                                     and monitors all door statuses for signs of entry.<br> 
@@ -173,10 +173,8 @@
                     </div>
                 </div>
             </div>
-            <div class="container rounded pt-3 mb-3 bg-white">
-                
+            <div class="container rounded pt-3 mb-3 bg-white">                
                 <div class="row">
-
                     <div class="col-3 text-center">
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
@@ -188,7 +186,7 @@
                     <div class="col-9 btnDiv">                        
                         <div class="row">
                             <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way Security System - Installed</h3>
-                            <div class="mt-5">
+                            <div>
                                 <p class="itemDesc">
                                     A security system that controls: lock/unlock, trunk pop, 
                                     and monitors all door statuses for signs of entry with improved range up to 2,000 feet away 
@@ -250,7 +248,7 @@
                         <div class="row">
                             <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System - Installed</h3>
                             <h6 class="text-center" style="font-family: Orbitron;">- Bypass module included -</h6>
-                            <div class="mt-3">
+                            <div>
                                 <p class="itemDesc">  
                                     1-Way Remote car starting system with trunk pop, lock / unlock features.*
                                 </p>
@@ -306,7 +304,7 @@
                         <div class="row">
                             <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way Remote Start System - Installed</h3>
                             <h6 class="text-center" style="font-family: Orbitron;">- Bypass module included -</h6>
-                            <div class="mt-3">
+                            <div>
                                 <p class="itemDesc">
                                     2-way* Remote car starting system with lock / unlock and trunk 
                                     pop features.
@@ -371,7 +369,7 @@
                         <div class="row">
                             <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LCD 2-Way Security and Remote Start System - Installed</h3>
                             <h6 class="text-center" style="font-family: Orbitron;">- Bypass module included -</h6>
-                            <div class="mt-3">
+                            <div>
                                 <p class="itemDesc">
                                     LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk 
                                     pop features*
