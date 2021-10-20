@@ -74,7 +74,6 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand pb-0" href="#">
-                    <!-- <p style="color: orange; display:inline; font-size: 2em;">ROHRING</p><p style="color: palegreen; display:inline; font-size: 2em;">STARTS</p> -->
                     <img src="images/MIID.png" alt="" style="width: auto; height: 4em;" class="ms-4 mb-3 img-fluid">                        
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
