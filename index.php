@@ -31,12 +31,21 @@
     <script>
         $(document).ready(function(){
 
-            $('.btn').on('click', function(){
+            $('.featBtn').on('click', function(){
 
-                if ($(this).text().includes("↓")){
+                if ($(this).text().includes("↓ KEY")){
                     $(this).html("&uarr; KEY FEATURES AND SPECIFICATIONS &uarr;")
                 } else {
                     $(this).html("&darr; KEY FEATURES AND SPECIFICATIONS &darr;")
+                }
+                
+            })
+            $('.advBtn').on('click', function(){
+
+                if($(this).text().includes("↓")){
+                    $(this).html("&uarr; ADVANTAGES OVER 1-WAY &uarr;")
+                } else {
+                    $(this).html("&darr; ADVANTAGES OVER 1-WAY &darr;")
                 }
                 
             })
@@ -106,12 +115,16 @@
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Security System - Installed</h3>
                         <div class="descDiv">
                             <p class="itemDesc">
-                                    An entry level security system that controls: lock/unlock, trunk pop, 
-                                    and monitors all door statuses for signs of entry.<br> 
-                                    Includes starter kill, shock sensor and a six tone siren.
+                            1-way entry-level security system with two 4-button remote controls. 
+                            The 3105 controls lock/unlock, trunk pop, and monitors all door statuses 
+                            for signs of entry. Includes starter kill, shock sensor, and six-tone 
+                            siren.<br> 
+                            1-way security systems are perfectly adequate in situations where the 
+                            user is close to the vehicle and can hear the vehicle chirp or see 
+                            the lights flash indicating the alarm has been set.
                             </p>
                             <p class="price">$225.00</p>
-                                <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
+                                <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
                                         &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                                 </button>
                         </div>
@@ -143,7 +156,7 @@
                     </div>
                 </div>
             </div>
-            <div class="container rounded pt-3 mb-3 bg-white">                
+            <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
@@ -156,18 +169,24 @@
                         <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way Security System - Installed</h3>
                         <div>
                             <p class="itemDesc">
-                                A security system that controls: lock/unlock, trunk pop, 
-                                and monitors all door statuses for signs of entry with improved range up to 2,000 feet away 
-                                and 2 way remote that shows the current status of your vehicle.<br> 
-                                Includes starter kill, shock sensor and a six tone siren.
+                            2-way security system includes 2-way remote control with liquid-crystal 
+                            display and one 4-button companion remote control. The 3305 controls 
+                            lock/unlock, trunk pop, and monitors all door statuses for signs of 
+                            entry. Includes starter kill, shock sensor, and six-tone siren.<br> 
+                            2-way security systems communicate with the user via a remote-control 
+                            key fab notifying them that the alarm has been set.  
                             </p>
                             <p class="price">$262.00</p>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayAdv" aria-expanded="false" aria-controls="twoWayAdv">
+                                &darr; ADVANTAGES OVER 1-WAY &darr;
                             </button>
                         </div>
                     </div> 
                 </div>
+                <!-- Key Feats -->
                 <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
@@ -193,6 +212,21 @@
                         </div>
                     </div>
                 </div>
+                <!-- Advantages section -->
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="twoWayAdv">
+                            <div class="card-body">
+                                <p>
+                                    The user can verify the alarm has been set when they are away from the vehicle 
+                                    and cannot hear the vehicle chirp or see the lights flash indicating the alarm 
+                                    has been set ex.) large parking lots, parking garages, etc.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <!-- Starters DIV -->
@@ -212,10 +246,11 @@
                         <h6 class="text-center" style="font-family: Orbitron;">- Bypass module included -</h6>
                         <div>
                             <p class="itemDesc">  
-                                1-Way Remote car starting system with trunk pop, lock / unlock features.*
-                            </p>
-                            <p style="font-size: 15px;">
-                            *** One way remote starters do not communicate back to the individual starting the vehicle. ***
+                                1-Way Remote car starting system with trunk pop, lock/unlock features. * Includes two 
+                                4-button remote controls.<br>
+                                1-way security systems are perfectly adequate in situations where the user is close 
+                                to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
+                                indicating the vehicle started. 
                             </p>
                             <p class="price">$199.99</p>
                             <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
@@ -263,15 +298,16 @@
                         <h6 class="text-center" style="font-family: Orbitron;">- Bypass module included -</h6>
                         <div>
                             <p class="itemDesc">
-                                2-way* Remote car starting system with lock / unlock and trunk 
-                                pop features.
-                            </p>
-                            <p class="font-size: 15px;">
-                            *** 2-way allows for communication back to indiviual that car has started. ***
+                            2-way* Remote car starting system with lock/unlock and trunk pop features. Allows 
+                            for an expanded one-mile range and includes one 2-way remote control with LED 
+                            command confirmation and one companion remote.
                             </p>
                             <p class="price">$329.99</p>
                             <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemoteAdv" aria-expanded="false" aria-controls="twoWayRemoteAdv">
+                                &darr; ADVANTAGES OVER 1-WAY &darr;
                             </button>
                         </div>
                     </div>
@@ -304,6 +340,22 @@
                         </div>
                     </div>
                 </div>
+                <!-- advantages -->
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="twoWayRemoteAdv">
+                            <div class="card-body">                                
+                                <p>2-way remote starters communicate with the user via their key fab notifying 
+                                    them, that the vehicle has started in situations where the user cannot 
+                                    hear or see the vehicle start. ex.) festival parking, large parking lots, 
+                                    parking garages, etc.<br>
+                                    Additionally, this unit has an expanded 1-mile range vs. a ¼ mile range 
+                                    available with the 1-way remote starter. 
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <!-- Secuirty & Starters DIV -->
@@ -323,15 +375,15 @@
                         <h6 class="text-center" style="font-family: Orbitron;">- Bypass module included -</h6>
                         <div>
                             <p class="itemDesc">
-                                LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk 
-                                pop features*
-                            </p>
-                            <p class="font-size: 15px;">
-                            *** 2-way remote control with liquid-crystal display and one 5-button 1-way remote control. ***
+                            LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features*<br>
+                            Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
                             </p>
                             <p class="price">$549.99</p>
                             <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
+                                &darr; ADVANTAGES OVER 1-WAY &darr;
                             </button>
                         </div>
                     </div>
@@ -362,6 +414,25 @@
                                     interference and other possible impediments.<br>
                                     **Smartphone sold separately<br>
                                     ***Additional parts and labor may be required</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- advantages -->
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="comboAdv">
+                            <div class="card-body">
+                                <p>
+                                    Provides all the advantages of the 2-way remote starter and the 2-way security system.
+                                    Allows for communication with the user via their remote-control key fab notifying them, 
+                                    that the vehicle has started and has armed itself in situations where the user is not 
+                                    near the vehicle, and cannot see or hear the vehicle start or arm itself. ex.) festival 
+                                    parking, large parking lots, parking garages, etc.
+                                    <br>
+                                    Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
+                                </p>
                             </div>
                         </div>
                     </div>
