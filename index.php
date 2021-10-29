@@ -360,7 +360,7 @@
                                 <h4>Advantages</h4>
                                 <p>
                                     2-way remote starters communicate with the user via their key fob notifying 
-                                    them, that the vehicle has started in situations where the user cannot 
+                                    them, that the vehicle has started. Most advantagous in situations where the user cannot 
                                     hear or see the vehicle start. ex.) festival parking, large parking lots, 
                                     parking garages, etc.<br><br>
                                     Additionally, this unit has an expanded 1-mile range vs. a ¼ mile range 
