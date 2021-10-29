@@ -118,15 +118,28 @@
                             1-way entry-level security system with two 4-button remote controls. 
                             The 3105 controls lock/unlock, trunk pop, and monitors all door statuses 
                             for signs of entry. Includes starter kill, shock sensor, and six-tone 
-                            siren.<br> 
-                            1-way security systems are perfectly adequate in situations where the 
-                            user is close to the vehicle and can hear the vehicle chirp or see 
-                            the lights flash indicating the alarm has been set.
+                            siren.
                             </p>
-                            <p class="price">$225.00</p>
-                                <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
-                                        &darr; KEY FEATURES AND SPECIFICATIONS &darr;
-                                </button>
+                            <div class="priceGrid">
+                                <div class="without">
+                                    <span class="disc">(without "dball")</span>  
+                                </div>
+                                <div class="with">
+                                    <span class="disc">(with "dball")</span>
+                                </div>
+                                <div class="costWithout">
+                                    <p class="price">$225.00</p>
+                                </div>
+                                <div class="costWith">
+                                    <p class="price">$325.00</p>
+                                </div>
+                                <div class="sep">
+                                    <span class="divider"> | </span>
+                                </div>
+                            </div>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
+                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
                         </div>
                     </div>
                 </div>
@@ -135,6 +148,12 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayDetail">
                             <div class="card-body">
+                                <h4>Advantages</h4>
+                                <p>
+                                    1-way security systems are perfectly adequate in situations where the 
+                                    user is close to the vehicle and can hear the vehicle chirp or see 
+                                    the lights flash indicating the alarm has been set.
+                                </p>
                                 <ul>
                                     <li>Clone-Safe® Code-Hopping®</li>
                                     <li>Stinger® DoubleGuard® Shock Sensor</li>
@@ -145,12 +164,6 @@
                                     <li>Includes two 1-Way remotes</li>
                                     <li>Directed® SmartStart Compatible**</li>
                                 </ul>
-                                <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
-                                    Actual range will vary due to local conditions including, but not limited to, 
-                                    environment, terrain, physical obstructions, vehicle location and orientation, 
-                                    interference and other possible impediments.<br>
-                                    **Smartphone sold separately<br>
-                                    ***Additional parts and labor may be required</p>
                             </div>
                         </div> 
                     </div>
@@ -169,20 +182,34 @@
                         <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way Security System - Installed</h3>
                         <div>
                             <p class="itemDesc">
-                            2-way security system includes 2-way remote control with liquid-crystal 
-                            display and one 4-button companion remote control. The 3305 controls 
-                            lock/unlock, trunk pop, and monitors all door statuses for signs of 
-                            entry. Includes starter kill, shock sensor, and six-tone siren.<br> 
-                            2-way security systems communicate with the user via a remote-control 
-                            key fab notifying them that the alarm has been set.  
+                                2-way security system includes 2-way remote control with liquid-crystal 
+                                display and one 4-button companion remote control. The 3305 controls 
+                                lock/unlock, trunk pop, and monitors all door statuses for signs of 
+                                entry. Includes starter kill, shock sensor, and six-tone siren.
                             </p>
-                            <p class="price">$262.00</p>
+                            <div class="priceGrid">
+                                <div class="without">
+                                    <span class="disc">(without "dball")</span>  
+                                </div>
+                                <div class="with">
+                                    <span class="disc">(with "dball")</span>
+                                </div>
+                                <div class="costWithout">
+                                    <p class="price">$262.00</p>
+                                </div>
+                                <div class="costWith">
+                                    <p class="price">$362.00</p>
+                                </div>
+                                <div class="sep">
+                                    <span class="divider"> | </span>
+                                </div>
+                            </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayAdv" aria-expanded="false" aria-controls="twoWayAdv">
+                            <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayAdv" aria-expanded="false" aria-controls="twoWayAdv">
                                 &darr; ADVANTAGES OVER 1-WAY &darr;
-                            </button>
+                            </button> -->
                         </div>
                     </div> 
                 </div>
@@ -192,6 +219,16 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayDetail">
                             <div class="card-body">
+                                <h4>Advantages</h4>
+                                <p>
+                                    2-way security systems communicate with the user via a remote-control 
+                                    key fob notifying them that the alarm has been set.
+                                </p>
+                                <p>
+                                    The user can verify the alarm has been set when they are away from the vehicle 
+                                    and cannot hear the vehicle chirp or see the lights flash indicating the alarm 
+                                    has been set ex.) large parking lots, parking garages, etc.
+                                </p>
                                 <ul>
                                     <li>Security and keyless entry system</li>
                                     <li>Clone-Safe® Code-Hopping®</li>
@@ -202,31 +239,21 @@
                                     <li>Includes 1-Way companion remote</li>
                                     <li>Directed® SmartStart Compatible**</li>
                                 </ul>
-                                <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
-                                    Actual range will vary due to local conditions including, but not limited to, 
-                                    environment, terrain, physical obstructions, vehicle location and orientation, 
-                                    interference and other possible impediments.<br>
-                                    **Smartphone sold separately<br>
-                                    ***Additional parts and labor may be required</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- Advantages section -->
+                <!-- Advantages section
                 <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayAdv">
                             <div class="card-body">
-                                <p>
-                                    The user can verify the alarm has been set when they are away from the vehicle 
-                                    and cannot hear the vehicle chirp or see the lights flash indicating the alarm 
-                                    has been set ex.) large parking lots, parking garages, etc.
-                                </p>
+                                
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Starters DIV -->
@@ -247,12 +274,25 @@
                         <div>
                             <p class="itemDesc">  
                                 1-Way Remote car starting system with trunk pop, lock/unlock features. * Includes two 
-                                4-button remote controls.<br>
-                                1-way Remote Start Systems are perfectly adequate in situations where the user is close 
-                                to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
-                                indicating the vehicle started. 
+                                4-button remote controls.
                             </p>
-                            <p class="price">$199.99</p>
+                            <div class="priceGrid">
+                                <div class="without">
+                                    <span class="disc">(without "dball")</span>  
+                                </div>
+                                <div class="with">
+                                    <span class="disc">(with "dball")</span>
+                                </div>
+                                <div class="costWithout">
+                                    <p class="price">$199.00</p>
+                                </div>
+                                <div class="costWith">
+                                    <p class="price">$299.00</p>
+                                </div>
+                                <div class="sep">
+                                    <span class="divider"> | </span>
+                                </div>
+                            </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
@@ -264,6 +304,12 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayRemote">
                             <div class="card-body">
+                                <h4>Advantages</h4>
+                                <p>
+                                    1-way Remote Start Systems are perfectly adequate in situations where the user is close 
+                                    to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
+                                    indicating the vehicle started.
+                                </p>
                                 <ul>
                                     <li>Up to 1/4 mile range*</li>
                                     <li>Auxiliary channel</li>
@@ -273,12 +319,6 @@
                                     <li>Separate ESP2 and D2D ports</li>
                                     <li>Onboard remote start relays</li>
                                 </ul>
-                                <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
-                                    Actual range will vary due to local conditions including, but not limited to, 
-                                    environment, terrain, physical obstructions, vehicle location and orientation, 
-                                    interference and other possible impediments.<br>
-                                    **Smartphone sold separately<br>
-                                    ***Additional parts and labor may be required</p>
                             </div>
                         </div>
                     </div>
@@ -302,13 +342,29 @@
                             for an expanded one-mile range and includes one 2-way remote control with LED 
                             command confirmation and one companion remote.
                             </p>
-                            <p class="price">$329.99</p>
+                            <div class="priceGrid">
+                                <div class="without">
+                                    <span class="disc">(without "dball")</span>  
+                                </div>
+                                <div class="with">
+                                    <span class="disc">(with "dball")</span>
+                                </div>
+                                <div class="costWithout">
+                                    <p class="price">$329.00</p>
+                                </div>
+                                <div class="costWith">
+                                    <p class="price">$429.00</p>
+                                </div>
+                                <div class="sep">
+                                    <span class="divider"> | </span>
+                                </div>
+                            </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemoteAdv" aria-expanded="false" aria-controls="twoWayRemoteAdv">
+                            <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemoteAdv" aria-expanded="false" aria-controls="twoWayRemoteAdv">
                                 &darr; ADVANTAGES OVER 1-WAY &darr;
-                            </button>
+                            </button> -->
                         </div>
                     </div>
                 </div>
@@ -317,6 +373,15 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayRemote">
                             <div class="card-body">
+                                <h4>Advantages</h4>
+                                <p>
+                                    2-way remote starters communicate with the user via their key fob notifying 
+                                    them, that the vehicle has started in situations where the user cannot 
+                                    hear or see the vehicle start. ex.) festival parking, large parking lots, 
+                                    parking garages, etc.<br><br>
+                                    Additionally, this unit has an expanded 1-mile range vs. a ¼ mile range 
+                                    available with the 1-way remote starter.
+                                </p>
                                 <ul>
                                     <li>4 auxiliary channels</li>
                                     <li>LED command confirmation</li>
@@ -330,32 +395,21 @@
                                     <li>Separate ESP2 and D2D ports</li>
                                     <li>Onboard remote start relays</li>
                                 </ul>
-                                <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
-                                    Actual range will vary due to local conditions including, but not limited to, 
-                                    environment, terrain, physical obstructions, vehicle location and orientation, 
-                                    interference and other possible impediments.<br>
-                                    **Smartphone sold separately<br>
-                                    ***Additional parts and labor may be required</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- advantages -->
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayRemoteAdv">
                             <div class="card-body">                                
-                                <p>2-way remote starters communicate with the user via their key fab notifying 
-                                    them, that the vehicle has started in situations where the user cannot 
-                                    hear or see the vehicle start. ex.) festival parking, large parking lots, 
-                                    parking garages, etc.<br>
-                                    Additionally, this unit has an expanded 1-mile range vs. a ¼ mile range 
-                                    available with the 1-way remote starter. 
+                                
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Secuirty & Starters DIV -->
@@ -378,13 +432,29 @@
                             LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features*<br>
                             Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
                             </p>
-                            <p class="price">$549.99</p>
+                            <div class="priceGrid">
+                                <div class="without">
+                                    <span class="disc">(without "dball")</span>  
+                                </div>
+                                <div class="with">
+                                    <span class="disc">(with "dball")</span>
+                                </div>
+                                <div class="costWithout">
+                                    <p class="price">$549.00</p>
+                                </div>
+                                <div class="costWith">
+                                    <p class="price">$649.00</p>
+                                </div>
+                                <div class="sep">
+                                    <span class="divider"> | </span>
+                                </div>
+                            </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
+                            <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
                                 &darr; ADVANTAGES OVER 1-WAY &darr;
-                            </button>
+                            </button> -->
                         </div>
                     </div>
                 </div>
@@ -393,6 +463,16 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="combo">
                             <div class="card-body">
+                                <h4>Advantages</h4>
+                                <p>
+                                    Provides all the advantages of the 2-way remote starter and the 2-way security system.
+                                    Allows for communication with the user via their remote-control key fob notifying them, 
+                                    that the vehicle has started and has armed itself in situations where the user is not 
+                                    near the vehicle, and cannot see or hear the vehicle start or arm itself. ex.) festival 
+                                    parking, large parking lots, parking garages, etc.
+                                    <br><br>
+                                    Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
+                                </p>
                                 <ul>
                                     <li>Stinger® DoubleGuard® Shock Sensor</li>
                                     <li>Revenger® 6-tone Siren</li>
@@ -408,35 +488,21 @@
                                     <li>Priority Icon map with LCD display</li>
                                     <li>Onboard remote start relays</li>
                                 </ul>
-                                <p>*Range based on line-of-sight unobstructed testing under ideal conditions. 
-                                    Actual range will vary due to local conditions including, but not limited to, 
-                                    environment, terrain, physical obstructions, vehicle location and orientation, 
-                                    interference and other possible impediments.<br>
-                                    **Smartphone sold separately<br>
-                                    ***Additional parts and labor may be required</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- advantages -->
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
                         <div class="collapse" id="comboAdv">
                             <div class="card-body">
-                                <p>
-                                    Provides all the advantages of the 2-way remote starter and the 2-way security system.
-                                    Allows for communication with the user via their remote-control key fab notifying them, 
-                                    that the vehicle has started and has armed itself in situations where the user is not 
-                                    near the vehicle, and cannot see or hear the vehicle start or arm itself. ex.) festival 
-                                    parking, large parking lots, parking garages, etc.
-                                    <br>
-                                    Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
-                                </p>
+                                
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Locations -->

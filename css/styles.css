@@ -41,11 +41,45 @@ fieldset{
     margin: auto;
 }
 .price{
+    display: inline-block;
     font-family: 'Asap', sans-serif;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 3em;
     font-style: italic;
-    padding-top: 5%;
+    margin: 0;
+}
+.disc{
+    color: gray;
+}
+.priceGrid {
+    width: 50%;
+    margin-top: 1em;
+    display: grid;
+    grid-template-columns: 0.8fr 0.1fr 0.8fr;
+    grid-template-rows: 0.3fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+        "costWithout sep costWith"
+        "without . with";
+}
+
+.without { grid-area: without; }
+
+.with { grid-area: with; }
+
+.costWithout { grid-area: costWithout; }
+
+.costWith { grid-area: costWith; }
+
+.sep { 
+    grid-area: sep;
+}
+.sep span {
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+    color: gray;
 }
 div li, div p{
     font-family: 'Asap', sans-serif;
@@ -88,9 +122,13 @@ div li, div p{
         margin:0;
     }
     .price{
-        font-size: 3em;
+        font-size: 2em;
         padding: 0;
-        margin-top: 1em;
+    }
+    .sep span {
+        font-family: 'Asap', sans-serif;
+        font-weight: bold;
+        font-size: 2em;
     }
     .hideMobile{
         width: 30%;
@@ -120,9 +158,13 @@ div li, div p{
         margin:0;
     }
     .price{
-        font-size: 3em;
+        font-size: 2em;
         padding: 0;
-        margin-top: 1em;
+    }
+    .sep span {
+        font-family: 'Asap', sans-serif;
+        font-weight: bold;
+        font-size: 2em;
     }
     .hideMobile{
         width: 36%;
@@ -156,9 +198,17 @@ div li, div p{
     }
     .price{
         text-align: center;
-        font-size: 3em;
+        font-size: 1.5em;
         padding: 0;
         margin: 0;
+    }
+    .sep span {
+        font-family: 'Asap', sans-serif;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+    .priceGrid{
+        margin: auto;
     }
     .hideMobile{
         display: none;
@@ -197,9 +247,15 @@ div li, div p{
     }
     .price{
         text-align: center;
-        font-size: 3em;
+        font-size: 1.5em;
         padding: 0;
         margin: 0;
+    }
+    .priceGrid{
+        margin: auto;
+    }
+    .sep span{
+        font-size: 1.5em;
     }
     .hideMobile{
         display: none;
@@ -238,9 +294,16 @@ div li, div p{
     }
     .price{
         text-align: center;
-        font-size: 3em;
+        font-size: 1.5em;
         padding: 0;
         margin: 0;
+    }
+    .priceGrid{
+        margin: auto;
+    }
+    .sep span{
+        font-size: 1.5em;
+        padding-left: .5em;
     }
     .hideMobile{
         display: none;
