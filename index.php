@@ -334,10 +334,10 @@
                                     <span class="disc">(with "dball")</span>
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$329.00</p>
+                                    <p class="price">$339.00</p>
                                 </div>
                                 <div class="costWith">
-                                    <p class="price">$429.00</p>
+                                    <p class="price">$439.00</p>
                                 </div>
                                 <div class="sep">
                                     <span class="divider"> | </span>
