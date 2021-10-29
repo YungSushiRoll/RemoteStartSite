@@ -152,9 +152,9 @@
                                     <li>Revenger® 6-tone Siren</li>
                                     <li>2 Auxiliary Outputs</li>
                                     <li>Security/keyless entry system</li>
-                                    <li>Up to 1/4 mile range*</li>
+                                    <li>Up to 1/4 mile range</li>
                                     <li>Includes two 1-Way remotes</li>
-                                    <li>Directed® SmartStart Compatible**</li>
+                                    <li>Directed® SmartStart Compatible</li>
                                 </ul>
                             </div>
                         </div> 
@@ -219,9 +219,9 @@
                                     <li>Stinger® DoubleGuard® Shock Sensor</li>
                                     <li>Revenger® 6-tone Siren</li>
                                     <li>2 Auxiliary Outputs</li>
-                                    <li>Up to 1/4 mile range*</li>
+                                    <li>Up to 1/4 mile range</li>
                                     <li>Includes 1-Way companion remote</li>
-                                    <li>Directed® SmartStart Compatible**</li>
+                                    <li>Directed® SmartStart Compatible</li>
                                 </ul>
                             </div>
                         </div>
@@ -257,7 +257,7 @@
                         <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional -</h6>
                         <div>
                             <p class="itemDesc">  
-                                1-Way Remote car starting system with trunk pop, lock/unlock features. * Includes two 
+                                1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
                                 4-button remote controls.
                             </p>
                             <div class="priceGrid">
@@ -295,11 +295,11 @@
                                     indicating the vehicle started.
                                 </p>
                                 <ul>
-                                    <li>Up to 1/4 mile range*</li>
+                                    <li>Up to 1/4 mile range</li>
                                     <li>Auxiliary channel</li>
-                                    <li>Horn Honk***</li>
+                                    <li>Horn Honk</li>
                                     <li>Includes two 1-Way remotes</li>
-                                    <li>Directed® SmartStart Compatible**</li>
+                                    <li>Directed® SmartStart Compatible</li>
                                     <li>Separate ESP2 and D2D ports</li>
                                     <li>Onboard remote start relays</li>
                                 </ul>
@@ -313,7 +313,7 @@
                     <div class="product">
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
-                            <img class="img-fluid" src="images/4806.png" alt="Python 3305P">                
+                            <img class="img-fluid" src="images/4806.png" alt="Python 4806P">                
                             <p style="font-family: 'Orbitron';">Python 4806P</p>
                         </fieldset>               
                     </div>
@@ -322,7 +322,7 @@
                         <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional -</h6>
                         <div>
                             <p class="itemDesc">
-                            2-way* Remote car starting system with lock/unlock and trunk pop features. Allows 
+                            2-way Remote car starting system with lock/unlock and trunk pop features. Allows 
                             for an expanded one-mile range and includes one 2-way remote control with LED 
                             command confirmation and one companion remote.
                             </p>
@@ -369,13 +369,13 @@
                                 <ul>
                                     <li>4 auxiliary channels</li>
                                     <li>LED command confirmation</li>
-                                    <li>Horn Honk***</li>
+                                    <li>Horn Honk</li>
                                     <li>Includes 1-Way companion remote</li>
                                     <li>Rechargeable battery</li>
-                                    <li>Directed® SmartStart Compatible**</li>
-                                    <li>Flex relay and selectable light flash polarity***</li>
-                                    <li>Manual transmission compatible***</li>
-                                    <li>Up to one mile range*</li>
+                                    <li>Directed® SmartStart Compatible</li>
+                                    <li>Flex relay and selectable light flash polarity</li>
+                                    <li>Manual transmission compatible</li>
+                                    <li>Up to one mile range</li>
                                     <li>Separate ESP2 and D2D ports</li>
                                     <li>Onboard remote start relays</li>
                                 </ul>
@@ -413,7 +413,7 @@
                         <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional -</h6>
                         <div>
                             <p class="itemDesc">
-                            LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features*<br>
+                            LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
                             Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
                             </p>
                             <div class="priceGrid">
@@ -461,13 +461,13 @@
                                     <li>Stinger® DoubleGuard® Shock Sensor</li>
                                     <li>Revenger® 6-tone Siren</li>
                                     <li>4 auxiliary channels</li>
-                                    <li>Horn Honk***</li>
+                                    <li>Horn Honk</li>
                                     <li>Includes 1-Way companion remote</li>
-                                    <li>Up to one mile range*</li>
+                                    <li>Up to one mile range</li>
                                     <li>Rechargeable battery</li>
-                                    <li>Directed® SmartStart Compatible**</li>
-                                    <li>Flex relay and selectable light flash polarity***</li>
-                                    <li>Manual transmission compatible***</li>
+                                    <li>Directed® SmartStart Compatible</li>
+                                    <li>Flex relay and selectable light flash polarity</li>
+                                    <li>Manual transmission compatible</li>
                                     <li>Separate ESP2 and D2D ports</li>
                                     <li>Priority Icon map with LCD display</li>
                                     <li>Onboard remote start relays</li>
