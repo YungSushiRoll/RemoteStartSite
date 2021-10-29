@@ -209,8 +209,8 @@
                                     key fob notifying them that the alarm has been set.
                                 </p>
                                 <p>
-                                    The user can verify the alarm has been set when they are away from the vehicle 
-                                    and cannot hear the vehicle chirp or see the lights flash indicating the alarm 
+                                    Most advantagous when user is away from the vehicle and cannot hear 
+                                    the vehicle chirp or see the lights flash indicating the alarm 
                                     has been set ex.) large parking lots, parking garages, etc.
                                 </p>
                                 <ul>
