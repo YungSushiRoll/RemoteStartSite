@@ -121,21 +121,13 @@
                             siren.
                             </p>
                             <div class="priceGrid">
-                                <div class="without">
-                                    <span class="disc">(without "dball")</span>  
-                                </div>
-                                <div class="with">
-                                    <span class="disc">(with "dball")</span>
-                                </div>
+                                <div class="without"></div>
+                                <div class="with"></div>
                                 <div class="costWithout">
                                     <p class="price">$225.00</p>
                                 </div>
-                                <div class="costWith">
-                                    <p class="price">$325.00</p>
-                                </div>
-                                <div class="sep">
-                                    <span class="divider"> | </span>
-                                </div>
+                                <div class="costWith"></div>
+                                <div class="sep"> </div>
                             </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
                                     &darr; KEY FEATURES AND SPECIFICATIONS &darr;
@@ -188,21 +180,13 @@
                                 entry. Includes starter kill, shock sensor, and six-tone siren.
                             </p>
                             <div class="priceGrid">
-                                <div class="without">
-                                    <span class="disc">(without "dball")</span>  
-                                </div>
-                                <div class="with">
-                                    <span class="disc">(with "dball")</span>
-                                </div>
+                                <div class="without"></div>
+                                <div class="with"></div>
                                 <div class="costWithout">
                                     <p class="price">$262.00</p>
                                 </div>
-                                <div class="costWith">
-                                    <p class="price">$362.00</p>
-                                </div>
-                                <div class="sep">
-                                    <span class="divider"> | </span>
-                                </div>
+                                <div class="costWith"></div>
+                                <div class="sep"></div>
                             </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
