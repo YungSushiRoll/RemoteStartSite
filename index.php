@@ -78,17 +78,17 @@
                     <!-- <li class="nav-item">
                     <a class="nav-link fs-5">|</a>
                     </li> -->
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                     <a class="nav-link fs-5 fw-bold" aria-current="page" href="#">Home</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                     <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starts</a>
+                    <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starters</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security and Remote Starts</a>
+                    <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
                     </li>
                 </ul>
                 </div>
@@ -277,7 +277,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                         </div>
@@ -343,7 +343,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemoteAdv" aria-expanded="false" aria-controls="twoWayRemoteAdv">
@@ -433,7 +433,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
