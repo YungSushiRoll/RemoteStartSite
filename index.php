@@ -248,7 +248,7 @@
                             <p class="itemDesc">  
                                 1-Way Remote car starting system with trunk pop, lock/unlock features. * Includes two 
                                 4-button remote controls.<br>
-                                1-way security systems are perfectly adequate in situations where the user is close 
+                                1-way Remote Start Systems are perfectly adequate in situations where the user is close 
                                 to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
                                 indicating the vehicle started. 
                             </p>
