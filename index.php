@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Missouri Auto Electrical Systems is a business looking to provide individuals with high quality Remote Car Start and Security Systems with included installation, in the Independence, O'Fallon, and Maryland Heights areas of Missouri.">
+    <meta name="description" content="Integrated Auto Systems is a business looking to provide individuals with high quality Remote Car Start and Security Systems with included installation, in the Independence, O'Fallon, and Maryland Heights areas of Missouri.">
     <meta name="keywords" content="remote start,remote start system,car starter,remote car start,car security system,car security,remote start missouri,remote car start missouri,auto electrical systems,car security missouri,car security system missouri,one way remote start,1 way remote start,two way remote start,2 way remote start,one way security system,1 way security system,two way security system,2 way security system">
-    <title>Missouri Auto Electrical Systems</title>
+    <title>Integrated Auto Systems</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <link rel="icon" type="image/jpg" href="images/favicon.ico"/>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
