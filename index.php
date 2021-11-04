@@ -63,34 +63,35 @@
                 <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-center centerNav" id="navbarNav">
-                <ul class="navbar-nav ">
-                    <!-- if dropdown is needed at any point -->
-                    <!-- <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle fs-5 fw-bold" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Systems
-                        </a>
-                        <ul class="dropdown-menu bg-light" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="#securitySystems">Security Systems</a></li>
-                            <li><a class="dropdown-item" href="#remoteStarters">Remote Starts</a></li>
-                            <li><a class="dropdown-item" href="#securityRemoteStart">Security and Remote Starts</a></li>
-                        </ul>
-                    </li> -->
-                    <!-- <li class="nav-item">
-                    <a class="nav-link fs-5">|</a>
-                    </li> -->
-                    <!-- <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" aria-current="page" href="#">Home</a>
-                    </li> -->
-                    <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starters</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
-                    </li>
-                </ul>
+                    <ul class="navbar-nav ">
+                        <!-- if dropdown is needed at any point -->
+                        <!-- <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle fs-5 fw-bold" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Systems
+                            </a>
+                            <ul class="dropdown-menu bg-light" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#securitySystems">Security Systems</a></li>
+                                <li><a class="dropdown-item" href="#remoteStarters">Remote Starts</a></li>
+                                <li><a class="dropdown-item" href="#securityRemoteStart">Security and Remote Starts</a></li>
+                            </ul>
+                        </li> -->
+                        <!-- <li class="nav-item">
+                        <a class="nav-link fs-5">|</a>
+                        </li> -->
+                        <!-- <li class="nav-item">
+                        <a class="nav-link fs-5 fw-bold" aria-current="page" href="#">Home</a>
+                        </li> -->
+                        <li class="nav-item">
+                        <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starters</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
+                        </li>
+                    </ul>
+                    <div class="navbar-text call">CALL US! (855)-934-0144</div>
                 </div>
             </div>
         </nav>
@@ -254,12 +255,13 @@
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional -</h6>
+                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional* -</h6>
                         <div>
                             <p class="itemDesc">  
                                 1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
                                 4-button remote controls.
                             </p>
+                            <p class="disc" style="font-size: 15px;">*Most vehicles require a data integration module for remote start installation.</p>
                             <div class="priceGrid">
                                 <div class="without">
                                     <span class="disc">(without DB3 Bypass Module)</span>  
@@ -319,13 +321,14 @@
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional -</h6>
+                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional* -</h6>
                         <div>
                             <p class="itemDesc">
                             2-way Remote car starting system with lock/unlock and trunk pop features. Allows 
                             for an expanded one-mile range and includes one 2-way remote control with LED 
                             command confirmation and one companion remote.
                             </p>
+                            <p class="disc" style="font-size: 15px;">*Most vehicles require a data integration module for remote start installation.</p>
                             <div class="priceGrid">
                                 <div class="without">
                                     <span class="disc">(without DB3 Bypass Module)</span>  
@@ -410,12 +413,13 @@
                     </div>    
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LCD 2-Way Security and Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional -</h6>
+                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional* -</h6>
                         <div>
                             <p class="itemDesc">
                             LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
                             Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
                             </p>
+                            <p class="disc" style="font-size: 15px;">*Most vehicles require a data integration module for remote start installation.</p>
                             <div class="priceGrid">
                                 <div class="without">
                                     <span class="disc">(without DB3 Bypass Module)</span>  

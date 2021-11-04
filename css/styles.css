@@ -14,6 +14,9 @@ fieldset{
 }     
 .centerNav{
     margin-left: -11.5em;
+}
+.call {
+    margin-left: 5%;
 }   
 /* .btnDiv{
     position: relative;
@@ -142,6 +145,9 @@ div li, div p{
 }
 
 @media (min-width:1025px) and (max-width:1200px) {
+    .nav-link, .call {
+        font-size: 1rem !important;
+    }
     .product
     {
         display: inline-block;
@@ -178,9 +184,18 @@ div li, div p{
     .featMobile{
         width: 64%;
     }
+    .call {
+        margin: 0;
+    }
 }
 
 @media (min-width:769px) and (max-width:1024px) {
+    .nav-link, .call {
+        font-size: 1rem !important;
+    }
+    .call{
+        margin: 0;
+    }
     .centerNav{
         margin: 0;
     }
@@ -231,6 +246,9 @@ div li, div p{
 }
 
 @media (min-width:481px) and (max-width: 768px) {
+    .call {
+        margin: 0;
+    }
     .centerNav{
         margin: 0;
     }
@@ -282,6 +300,9 @@ div li, div p{
 }
 
 @media (max-width: 480px) {
+    .call{
+        margin: 0;
+    }
     .centerNav{
         margin: 0;
     }
