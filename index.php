@@ -261,7 +261,9 @@
                                 1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
                                 4-button remote controls.
                             </p>
-                            <p class="disc" style="font-size: 15px;">*Most vehicles require a data integration module for remote start installation.</p>
+                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            for remote start installation. This allows for proper communication from the alarm/remote 
+                            start system to the vehicles</p>
                             <div class="priceGrid">
                                 <div class="without">
                                     <span class="disc">(without DB3 Bypass Module)</span>  
@@ -328,7 +330,9 @@
                             for an expanded one-mile range and includes one 2-way remote control with LED 
                             command confirmation and one companion remote.
                             </p>
-                            <p class="disc" style="font-size: 15px;">*Most vehicles require a data integration module for remote start installation.</p>
+                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            for remote start installation. This allows for proper communication from the alarm/remote 
+                            start system to the vehicles</p>
                             <div class="priceGrid">
                                 <div class="without">
                                     <span class="disc">(without DB3 Bypass Module)</span>  
@@ -419,7 +423,9 @@
                             LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
                             Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
                             </p>
-                            <p class="disc" style="font-size: 15px;">*Most vehicles require a data integration module for remote start installation.</p>
+                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            for remote start installation. This allows for proper communication from the alarm/remote 
+                            start system to the vehicles</p>
                             <div class="priceGrid">
                                 <div class="without">
                                     <span class="disc">(without DB3 Bypass Module)</span>  
