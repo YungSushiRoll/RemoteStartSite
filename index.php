@@ -59,9 +59,6 @@
                 <a class="navbar-brand pb-0" href="#">
                     <img src="images/MIID.png" alt="" style="width: auto; height: 4em;" class="ms-4 mb-3 img-fluid">                        
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-                </button>
                 <div class="collapse navbar-collapse justify-content-center centerNav" id="navbarNav">
                     <ul class="navbar-nav ">
                         <!-- if dropdown is needed at any point -->
@@ -91,8 +88,11 @@
                         <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
                         </li>
                     </ul>
-                    <div class="navbar-text call">CALL US! (855)-934-0144</div>
                 </div>
+                <div class="fw-bold float-end call nav-item">(855)-934-0144</div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>                
             </div>
         </nav>
         <div class="text-center">

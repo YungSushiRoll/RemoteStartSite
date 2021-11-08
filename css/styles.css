@@ -13,10 +13,13 @@ fieldset{
     min-width: 300px;
 }     
 .centerNav{
-    margin-left: -11.5em;
+    margin-left: -2.5em;
 }
 .call {
-    margin-left: 5%;
+    width: 200px;
+    font-family: 'Asap', sans-serif;
+    font-size: x-large;
+    margin-right: 1em;
 }   
 /* .btnDiv{
     position: relative;
@@ -145,7 +148,7 @@ div li, div p{
 }
 
 @media (min-width:1025px) and (max-width:1200px) {
-    .nav-link, .call {
+    .nav-link {
         font-size: 1rem !important;
     }
     .product
@@ -190,11 +193,12 @@ div li, div p{
 }
 
 @media (min-width:769px) and (max-width:1024px) {
-    .nav-link, .call {
+    .nav-link {
         font-size: 1rem !important;
     }
     .call{
-        margin: 0;
+        margin-left: 3em;
+        font-size: 1.25rem;
     }
     .centerNav{
         margin: 0;
@@ -300,8 +304,12 @@ div li, div p{
 }
 
 @media (max-width: 480px) {
+    .navbar-brand{
+        margin: auto;
+    }
     .call{
-        margin: 0;
+        margin: auto;
+        text-align: center;
     }
     .centerNav{
         margin: 0;
