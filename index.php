@@ -255,7 +255,7 @@
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional* -</h6>
+                        <h6 class="text-center" style="font-family: Orbitron;">- bypass module usually required* -</h6>
                         <div>
                             <p class="itemDesc">  
                                 1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
@@ -323,7 +323,7 @@
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional* -</h6>
+                        <h6 class="text-center" style="font-family: Orbitron;">- bypass module usually required* -</h6>
                         <div>
                             <p class="itemDesc">
                             2-way Remote car starting system with lock/unlock and trunk pop features. Allows 
@@ -417,7 +417,7 @@
                     </div>    
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LCD 2-Way Security and Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- Bypass module optional* -</h6>
+                        <h6 class="text-center" style="font-family: Orbitron;">- bypass module usually required* -</h6>
                         <div>
                             <p class="itemDesc">
                             LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
