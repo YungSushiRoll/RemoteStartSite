@@ -57,8 +57,8 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand pb-0" href="#">
-                    <img src="images/MIID.png" alt="" style="width: auto; height: 4em;" class="ms-4 mb-3 img-fluid">                        
-                </a>
+                    <img src="images/MIID.png" alt="" class="ms-4 mb-3 img-fluid logo">                        
+                </a>                
                 <div class="collapse navbar-collapse justify-content-center centerNav" id="navbarNav">
                     <ul class="navbar-nav ">
                         <!-- if dropdown is needed at any point -->
@@ -90,9 +90,10 @@
                     </ul>
                 </div>
                 <div class="fw-bold float-end call nav-item">(855)-934-0144</div>
+                <div><a class="fw-bold callus nav-item" style="text-decoration: none;" href="tel:8559340144">CALL US 📞</a></div> 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-                </button>                
+                    <span class="navbar-toggler-icon"></span>
+                </button>                             
             </div>
         </nav>
         <div class="text-center">

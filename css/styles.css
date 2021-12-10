@@ -11,6 +11,10 @@ html {
 fieldset{
     max-width: 300px;
     min-width: 300px;
+}
+.logo{
+    width: auto;
+    height: 4em;
 }     
 .centerNav{
     margin-left: -2.5em;
@@ -22,18 +26,11 @@ fieldset{
     margin-right: 1em;
     color: #3a3a3aea;
 }   
-/* .btnDiv{
-    position: relative;
+.callus{
+    display: none;
+    font-family: 'Asap', sans-serif;
+    color: #3a3a3aea;
 }
-.button{
-    position: absolute;
-    left: 0;
-    bottom: 0;
-} */
-/* .descDiv{
-    max-height: 300px;
-    height: 100%;
-} */
 .itemDesc {
     font-size: 18px; font-family: 'Asap', sans-serif;
     padding-top: 5%;
@@ -193,7 +190,7 @@ div li, div p{
     }
 }
 
-@media (min-width:769px) and (max-width:1024px) {
+/* @media (min-width:992px) and (max-width:1024px) {
     .nav-link {
         font-size: 1rem !important;
     }
@@ -243,7 +240,69 @@ div li, div p{
     .featMobile{
         width: 100%;
     }
-    button{
+    .featBtn{
+        width: 100%;
+        margin: auto;
+        margin-bottom: 1em;
+    }
+} */
+@media (min-width:769px) and (max-width:1024px) {
+    .nav-link {
+        font-size: 1rem !important;
+    }
+    .call{
+        margin-left: 3em;
+        font-size: 1.25rem;
+    }
+    /* .callus{
+        display: block;
+        margin-left: 3em;
+        font-size: 1.25rem;
+    } */
+    .centerNav{
+        margin: 0;
+    }
+    fieldset{
+        min-width: 0px;
+    }
+    .product{
+        display: inline-block;
+        width: 300px;
+        margin-left: 0;
+        margin: auto;
+    }
+    .product.desc{
+        width: 80%;
+        margin: auto;
+    }
+    .itemDesc
+    {
+        padding-top: .8em;
+        margin:0;
+    }
+    .price{
+        text-align: center;
+        font-size: 1.5em;
+        padding: 0;
+        margin: 0;
+    }
+    .sep span {
+        font-family: 'Asap', sans-serif;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+    .priceGrid{
+        margin: auto;
+        width: 100%;
+    }
+    .hideMobile{
+        display: none;
+    }
+    .featMobile{
+        width: 100%;
+    }
+    /* checking btn css stuff */
+    .featBtn{
         width: 100%;
         margin: auto;
         margin-bottom: 1em;
@@ -251,9 +310,16 @@ div li, div p{
 }
 
 @media (min-width:481px) and (max-width: 768px) {
+    .logo{
+        width: auto;
+        height: 2em;
+    }
     .call {
         margin: 0;
     }
+    /* .callus{
+        display: block;
+    } */
     .centerNav{
         margin: 0;
     }
@@ -294,23 +360,30 @@ div li, div p{
     .featMobile{
         width: 100%;
     }
-    button{
+    .featBtn{
+        font-size: 0.75em;
         width: 100%;
         margin: auto;
         margin-bottom: 1em;
     }
-    .featBtn{
-        font-size: 0.75em;
-    }
 }
 
 @media (max-width: 480px) {
-    .navbar-brand{
+    /* .navbar-brand{
         margin: auto;
+    } */
+    .logo{
+        width: auto;
+        height: 2em;
     }
     .call{
         margin: auto;
         text-align: center;
+        display: none;
+    }
+    .callus{
+        text-align: center;
+        display: block;
     }
     .centerNav{
         margin: 0;
@@ -353,11 +426,9 @@ div li, div p{
     .featMobile{
         width: 100%;
     }
-    button{
-        margin: 1em 0;
-        width: 100%;
-    }
     .featBtn{
         font-size: 0.75em;
+        margin: 1em 0;
+        width: 100%;
     }
 }
