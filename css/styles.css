@@ -1,5 +1,9 @@
-h1{
+h1, h2{
     font-family: 'Orbitron', sans-serif;
+    font-size: calc(1.5rem + 1.5vw);
+}
+h2{
+    font-size: calc(1.375rem + 1.5vw);
 }
 legend{
     float: none !important;

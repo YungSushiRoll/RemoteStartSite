@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Installing high quality Remote Starter and Security Systems in Independence, O'Fallon, and Maryland Heights, Missouri.">
     <meta name="keywords" content="Integrated auto systems,remote start,remote start system,car starter,remote car start,car security system,car security,remote start missouri,remote car start missouri,auto electrical systems,car security missouri,car security system missouri,one way remote start,1 way remote start,two way remote start,2 way remote start,one way security system,1 way security system,two way security system,2 way security system">
-    <title>Integrated Auto Systems - Remote starter and security alarm installation</title>
+    <title>Integrated Auto Systems</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <link rel="icon" type="image/jpg" href="images/favicon.ico"/>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -57,7 +57,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <a class="navbar-brand pb-0" href="#">
-                    <img src="images/MIID.png" alt="" class="ms-4 mb-3 img-fluid logo">                        
+                    <img src="images/MIID.png" alt="logo" class="ms-4 mb-3 img-fluid logo">                        
                 </a>                
                 <div class="collapse navbar-collapse justify-content-center centerNav" id="navbarNav">
                     <ul class="navbar-nav ">
@@ -97,13 +97,19 @@
             </div>
         </nav>
         <div class="text-center">
-            <img src="images/rm_banner2.png" alt="" class=" w-100 border-top border-bottom border-5" style="border-color:#484a4a !important;">
+            <img src="images/rm_banner2.png" alt="bannerWithDevices" class=" w-100 border-top border-bottom border-5" style="border-color:#484a4a !important;">
         </div>
+
+        
         
     <div class="container">
+        <div style="text-align:center;">
+        <h1>Remote Starter and Security System Installation</h1>
+        </div>
+
         <!-- Security DIV -->
         <div>
-            <h1 class="text-left mt-3" id="securitySystems">Security Systems</h1>
+            <h2 class="text-left mt-3" id="securitySystems">Security Systems</h2>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
@@ -142,7 +148,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayDetail">
                             <div class="card-body">
-                                <h4>Advantages</h4>
+                                <div class="h4">Advantages</div>
                                 <p>
                                     1-way security systems are perfectly adequate in situations where the 
                                     user is close to the vehicle and can hear the vehicle chirp or see 
@@ -205,7 +211,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayDetail">
                             <div class="card-body">
-                                <h4>Advantages</h4>
+                            <div class="h4">Advantages</div>
                                 <p>
                                     2-way security systems communicate with the user via a remote-control 
                                     key fob notifying them that the alarm has been set.
@@ -244,7 +250,7 @@
         </div>
         <!-- Starters DIV -->
         <div>
-            <h1 class="text-left" id="remoteStarters">Remote Starters</h1>
+            <h2 class="text-left" id="remoteStarters">Remote Starters</h2>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
@@ -256,7 +262,7 @@
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- bypass module usually required* -</h6>
+                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
                         <div>
                             <p class="itemDesc">  
                                 1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
@@ -293,7 +299,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayRemote">
                             <div class="card-body">
-                                <h4>Advantages</h4>
+                            <div class="h4">Advantages</div>
                                 <p>
                                     1-way Remote Start Systems are perfectly adequate in situations where the user is close 
                                     to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
@@ -324,7 +330,7 @@
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- bypass module usually required* -</h6>
+                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
                         <div>
                             <p class="itemDesc">
                             2-way Remote car starting system with lock/unlock and trunk pop features. Allows 
@@ -365,7 +371,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayRemote">
                             <div class="card-body">
-                                <h4>Advantages</h4>
+                            <div class="h4">Advantages</div>
                                 <p>
                                     2-way remote starters communicate with the user via their key fob notifying 
                                     them, that the vehicle has started. Most advantagous in situations where the user cannot 
@@ -406,7 +412,7 @@
         </div>
         <!-- Secuirty & Starters DIV -->
         <div>
-            <h1 class="text-left" id="securityRemoteStart">Security with Remote Starter</h1>
+            <h2 class="text-left" id="securityRemoteStart">Security with Remote Starter</h2>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
@@ -418,7 +424,7 @@
                     </div>    
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LCD 2-Way Security and Remote Start System - Installed</h3>
-                        <h6 class="text-center" style="font-family: Orbitron;">- bypass module usually required* -</h6>
+                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
                         <div>
                             <p class="itemDesc">
                             LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
@@ -458,7 +464,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="combo">
                             <div class="card-body">
-                                <h4>Advantages</h4>
+                            <div class="h4">Advantages</div>
                                 <p>
                                     Provides all the advantages of the 2-way remote starter and the 2-way security system.
                                     Allows for communication with the user via their remote-control key fob notifying them, 
