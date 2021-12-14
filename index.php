@@ -508,7 +508,7 @@
         </div>
         <!-- Locations -->
         <div>
-            <h1 class="text-center" id="locations">Locations</h1>
+            <h2 class="text-center" id="locations">Locations</h2>
             <div class="container rounded pt-3 mb-3 bg-white" style="height: 100%">
                 <div class="row pb-3 w-100 h-auto">
                     <div class="loc">
