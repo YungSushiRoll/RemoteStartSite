@@ -8,6 +8,7 @@
     <meta name="keywords" content="Integrated auto systems,remote start,remote start system,car starter,remote car start,car security system,car security,remote start missouri,remote car start missouri,auto electrical systems,car security missouri,car security system missouri,one way remote start,1 way remote start,two way remote start,2 way remote start,one way security system,1 way security system,two way security system,2 way security system">
     <title>Integrated Auto Systems</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <link rel="canonical" href="https://integratedautosystems.com/"/>
     <link rel="icon" type="image/jpg" href="images/favicon.ico"/>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
