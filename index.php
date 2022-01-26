@@ -255,9 +255,9 @@
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
-                        <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
+                        <fieldset class="border border-success mb-3 form-group rounded shadow-lg" style="background-color: #c3c3c3;">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
-                            <img class="img-fluid" src="images/4105P.png" alt="Python 4105P">
+                            <img class="img-fluid" src="images/4105P_oos.png" alt="Python 4105P">
                             <p style="font-family: 'Orbitron';">Python 4105P</p>
                         </fieldset>                 
                     </div>
@@ -311,6 +311,74 @@
                                     <li>Auxiliary channel</li>
                                     <li>Horn Honk</li>
                                     <li>Includes two 1-Way remotes</li>
+                                    <li>Directed® SmartStart Compatible</li>
+                                    <li>Separate ESP2 and D2D ports</li>
+                                    <li>Onboard remote start relays</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container rounded pt-3 mb-3 bg-white">
+                <div class="row">
+                    <div class="product">
+                        <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
+                            <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
+                            <img class="img-fluid" src="images/4115P.png" alt="Python 4115P">
+                            <p style="font-family: 'Orbitron';">Python 4115P</p>
+                        </fieldset>                 
+                    </div>
+                    <div class="product desc">
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System - Installed</h3>
+                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
+                        <div>
+                            <p class="itemDesc">  
+                                1-Way Remote car starting system. Includes two 
+                                1-button remote controls.
+                            </p>
+                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            for remote start installation. This allows for proper communication from the alarm/remote 
+                            start system to the vehicles</p>
+                            <div class="priceGrid">
+                                <div class="without">
+                                    <span class="disc">(without DB3 Bypass Module)</span>  
+                                </div>
+                                <div class="with">
+                                    <span class="disc">(with DB3 Bypass Module)</span>
+                                </div>
+                                <div class="costWithout">
+                                    <p class="price">$199.99</p>
+                                </div>
+                                <div class="costWith">
+                                    <p class="price">$299.99</p>
+                                </div>
+                                <div class="sep">
+                                    <span class="divider"> | </span>
+                                </div>
+                            </div>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote2" aria-expanded="false" aria-controls="oneWayRemote2">
+                                &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="oneWayRemote2">
+                            <div class="card-body">
+                            <div class="h4">Advantages</div>
+                                <p>
+                                    1-way Remote Start Systems are perfectly adequate in situations where the user is close 
+                                    to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
+                                    indicating the vehicle started.
+                                </p>
+                                <ul>
+                                    <li>Up to 1/4 mile range</li>
+                                    <li>Auxiliary channel</li>
+                                    <li>Includes two 1-Way remotes</li>
+                                    <li>Bitwriter programmable for easy configuration</li>
                                     <li>Directed® SmartStart Compatible</li>
                                     <li>Separate ESP2 and D2D ports</li>
                                     <li>Onboard remote start relays</li>
