@@ -109,6 +109,9 @@ div li, div p{
     text-align: left;
     width: 66%;
 }
+.oos{
+    background-color: #c3c3c3;
+}
 
 @media (min-width:1201px) and (max-width:1400px) {
     .product

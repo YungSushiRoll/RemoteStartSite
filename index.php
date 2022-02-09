@@ -391,9 +391,9 @@
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
-                        <fieldset class="border border-warning mb-3 form-group rounded shadow-lg" style="background-color: #c3c3c3;">
+                        <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
-                            <img class="img-fluid" src="images/4806_oos.png" alt="Python 4806P">                
+                            <img class="img-fluid" src="images/4806.png" alt="Python 4806P">                
                             <p style="font-family: 'Orbitron';">Python 4806P</p>
                         </fieldset>               
                     </div>
