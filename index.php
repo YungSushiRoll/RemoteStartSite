@@ -589,6 +589,9 @@
                     <div class="loc">
                         11848 Dorsett Rd Maryland Heights, MO 63043
                     </div>
+                    <div class="loc">
+                        1780 Allouez Ave., Unit E - 2, Green Bay, WI 54311
+                    </div>
                 </div>
             </div>
         </div>
