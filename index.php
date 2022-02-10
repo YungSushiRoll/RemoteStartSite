@@ -581,7 +581,7 @@
             <div class="container rounded pt-3 mb-3 bg-white" style="height: 100%">
                 <div class="row pb-3 w-100 h-auto">
                     <div class="loc">
-                        1600 South Noland Rd, Suite 212 Independence, MO 64055
+                        1600 South Noland Rd, Suite 212 B Independence, MO 64055
                     </div>
                     <div class="loc">
                         810 Midpoint Dr O'Fallon, MO 63366
