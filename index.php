@@ -98,7 +98,7 @@
             </div>
         </nav>
         <div class="text-center">
-            <img src="images/rm_banner2.png" alt="bannerWithDevices" class=" w-100 border-top border-bottom border-5" style="border-color:#484a4a !important;">
+            <img src="images/rm_banner2v2.png" alt="bannerWithDevices" class=" w-100 border-top border-bottom border-5" style="border-color:#484a4a !important;">
         </div>
 
         
@@ -482,6 +482,99 @@
         <!-- Secuirty & Starters DIV -->
         <div>
             <h2 class="text-left" id="securityRemoteStart">Security with Remote Starter</h2>
+            <div class="container rounded pt-3 mb-3 bg-white">
+                <div class="row">
+                    <div class="product">
+                        <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
+                            <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
+                            <img class="img-fluid" src="images/5105P.png" alt="Python 5105P">
+                            <p style="font-family: 'Orbitron';">Python 5105P</p>
+                        </fieldset>                
+                    </div>    
+                    <div class="product desc">
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">FINISH THIS : 1-Way Security and Remote Start System - Installed</h3>
+                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
+                        <div>
+                            <p class="itemDesc">
+                            1-Way Security and Remote Start System with lock/unlock and trunk pop, features 1/4-mile
+                            range and two 4-button 1-way remote controls.
+                            </p>
+                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            for remote start installation. This allows for proper communication from the alarm/remote 
+                            start system to the vehicles</p>
+                            <div class="priceGrid">
+                                <div class="without">
+                                    <span class="disc">(without DB3 Bypass Module)</span>  
+                                </div>
+                                <div class="with">
+                                    <span class="disc">(with DB3 Bypass Module)</span>
+                                </div>
+                                <div class="costWithout">
+                                    <p class="price">$334.00</p>
+                                </div>
+                                <div class="costWith">
+                                    <p class="price">$434.00</p>
+                                </div>
+                                <div class="sep">
+                                    <span class="divider"> | </span>
+                                </div>
+                            </div>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
+                                &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                            <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
+                                &darr; ADVANTAGES OVER 1-WAY &darr;
+                            </button> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="combo">
+                            <div class="card-body">
+                            <div class="h4">Advantages</div>
+                                <p>
+                                    Provides all the advantages of the 2-way remote starter and the 2-way security system.
+                                    Allows for communication with the user via their remote-control key fob notifying them, 
+                                    that the vehicle has started and has armed itself in situations where the user is not 
+                                    near the vehicle, and cannot see or hear the vehicle start or arm itself. ex.) festival 
+                                    parking, large parking lots, parking garages, etc.
+                                    <br><br>
+                                    Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
+                                </p>
+                                <ul>
+                                    <li>Stinger® DoubleGuard® Shock Sensor</li>
+                                    <li>Revenger® 6-tone Siren</li>
+                                    <li>4 auxiliary channels</li>
+                                    <li>Up to 1/4 mile range</li>
+                                    <li>Horn Honk</li>
+                                    <li>Includes two 1-Way remote</li>
+                                    <li>Up to one mile range</li>
+                                    <li>Rechargeable battery</li>
+                                    <li>Directed® SmartStart Compatible</li>
+                                    <li>Flex relay and selectable light flash polarity</li>
+                                    <li>Manual transmission compatible</li>
+                                    <li>Separate ESP2 and D2D ports</li>
+                                    <li>Priority Icon map with LCD display</li>
+                                    <li>Onboard remote start relays</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- advantages -->
+                <!-- <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="comboAdv">
+                            <div class="card-body">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
