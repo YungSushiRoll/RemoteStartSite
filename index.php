@@ -89,7 +89,7 @@
                     <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" href="#addOns">Add-on Systems</a>
+                    <a class="nav-link fs-5 fw-bold" href="#addOns">SmartStart Add-on</a>
                     </li>
                 </ul>
             </div>
@@ -664,7 +664,7 @@
         </div>
         <!-- Smart Start DIV -->
         <div>
-        <h2 class="text-left mt-3" id="addOns">Add-ons</h2>
+        <h2 class="text-left mt-3" id="addOns">SmartStart Add-on</h2>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
