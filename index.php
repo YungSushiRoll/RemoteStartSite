@@ -680,6 +680,8 @@
                         <div class="descDiv">
                             <p class="itemDesc">
                             Python SmartStart lets you remote start, lock and unlock your car with the push of a button on your smartphone.                            
+                            <br><br>
+                            Service plan information <a style="color:black; font-weight:bolder;" target="blank" href="https://www.mysmartstart.com/plans/?b=d">here</a>!
                             </p>
                             <div class="priceGrid">
                                 <div class="without"></div>
