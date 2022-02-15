@@ -54,60 +54,118 @@
     </script>
 </head>
 <body style="background-color: lightgrey;">
-        <!-- Navbar -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <div class="container-fluid">
-                <a class="navbar-brand pb-0" href="#">
-                    <img src="images/MIID.png" alt="logo" class="ms-4 mb-3 img-fluid logo">                        
-                </a>                
-                <div class="collapse navbar-collapse justify-content-center centerNav" id="navbarNav">
-                    <ul class="navbar-nav ">
-                        <!-- if dropdown is needed at any point -->
-                        <!-- <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle fs-5 fw-bold" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Systems
-                            </a>
-                            <ul class="dropdown-menu bg-light" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#securitySystems">Security Systems</a></li>
-                                <li><a class="dropdown-item" href="#remoteStarters">Remote Starts</a></li>
-                                <li><a class="dropdown-item" href="#securityRemoteStart">Security and Remote Starts</a></li>
-                            </ul>
-                        </li> -->
-                        <!-- <li class="nav-item">
-                        <a class="nav-link fs-5">|</a>
-                        </li> -->
-                        <!-- <li class="nav-item">
-                        <a class="nav-link fs-5 fw-bold" aria-current="page" href="#">Home</a>
-                        </li> -->
-                        <li class="nav-item">
-                        <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starters</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="fw-bold float-end call nav-item">(855)-934-0144</div>
-                <div><a class="fw-bold callus nav-item" style="text-decoration: none;" href="tel:8559340144">CALL US 📞</a></div> 
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>                             
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand pb-0" href="#">
+                <img src="images/MIID.png" alt="logo" class="ms-4 mb-3 img-fluid logo">                        
+            </a>                
+            <div class="collapse navbar-collapse justify-content-center centerNav" id="navbarNav">
+                <ul class="navbar-nav ">
+                    <!-- if dropdown is needed at any point -->
+                    <!-- <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle fs-5 fw-bold" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Systems
+                        </a>
+                        <ul class="dropdown-menu bg-light" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#securitySystems">Security Systems</a></li>
+                            <li><a class="dropdown-item" href="#remoteStarters">Remote Starts</a></li>
+                            <li><a class="dropdown-item" href="#securityRemoteStart">Security and Remote Starts</a></li>
+                        </ul>
+                    </li> -->
+                    <!-- <li class="nav-item">
+                    <a class="nav-link fs-5">|</a>
+                    </li> -->
+                    <!-- <li class="nav-item">
+                    <a class="nav-link fs-5 fw-bold" aria-current="page" href="#">Home</a>
+                    </li> -->
+                    <li class="nav-item">
+                    <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starters</a>
+                    </li>
+                    <li class="nav-item">
+                    <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
+                    </li>
+                </ul>
             </div>
-        </nav>
-        <div class="text-center">
-            <img src="images/rm_banner2v2.png" alt="bannerWithDevices" class=" w-100 border-top border-bottom border-5" style="border-color:#484a4a !important;">
+            <div class="fw-bold float-end call nav-item">(855)-934-0144</div>
+            <div><a class="fw-bold callus nav-item" style="text-decoration: none;" href="tel:8559340144">CALL US 📞</a></div> 
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>                             
         </div>
-
-        
-        
+    </nav>
+    <div class="text-center">
+        <img src="images/rm_banner2v2.png" alt="bannerWithDevices" class=" w-100 border-top border-bottom border-5" style="border-color:#484a4a !important;">
+    </div>
     <div class="container">
         <div style="text-align:center;">
         <h1>Remote Starters and Security Systems Installation</h1>
+    </div>
+        <!-- Smart Start DIV -->
+        <div>
+        <h2 class="text-left mt-3" id="smartStart">SmartStart</h2>
+            <div class="container rounded pt-3 mb-3 bg-white">
+                <div class="row">
+                    <div class="product">
+                        <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
+                            <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>            
+                            <img class="img-fluid" src="images/dsm550.png" alt="Directed SmartStart DSM 550">
+                            <p style="font-family: 'Orbitron';">Directed SmartStart Pro DSM 550</p>
+                        </fieldset>                         
+                    </div>
+                    <div class="product desc">
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">SmartStart System - Installed</h3>
+                        <div class="h6 text-center" style="font-family: Orbitron;">- Smart phone and Service Plan not included* -</div>
+                        <div class="descDiv">
+                            <p class="itemDesc">
+                            Directed SmartStart lets you remote start, lock and unlock your car with the push of a button on your smartphone.                            
+                            </p>
+                            <div class="priceGrid">
+                                <div class="without"></div>
+                                <div class="with"></div>
+                                <div class="costWithout">
+                                    <p class="price">$179.99</p>
+                                </div>
+                                <div class="costWith"></div>
+                                <div class="sep"> </div>
+                            </div>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
+                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="oneWayDetail">
+                            <div class="card-body">
+                                <div class="h4">Advantages</div>
+                                <p>
+                                    Directed SmartStart devices use the latest GPS and LTE cellular technology to connect you to your vehicle
+                                    from nearly anywhere in the world! Python SmartStart products, including Python Connect and Python
+                                    SmartStart Pro, require an active subscription plan to track, monitor, and receive alerts related to your vehicle.
+                                </p>
+                                <ul>
+                                    <li>Lock / Arm</li>
+                                    <li>Unlock / Disarm</li>
+                                    <li>Remote Car Starter</li>
+                                    <li>Trunk Release</li>
+                                    <li>Panic</li>
+                                    <li>Aux Channels</li>
+                                </ul>
+                                <p>
+                                    You can also control multiple vehicles - great for families! - and assign more than one user to control a vehicle.
+                                </p>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
         </div>
-
         <!-- Security DIV -->
         <div>
             <h2 class="text-left mt-3" id="securitySystems">Security Systems</h2>
@@ -492,7 +550,7 @@
                         </fieldset>                
                     </div>    
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">FINISH THIS : 1-Way Security and Remote Start System - Installed</h3>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Security and Remote Start System - Installed</h3>
                         <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
                         <div>
                             <p class="itemDesc">
@@ -519,7 +577,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayCombo" aria-expanded="false" aria-controls="oneWayCombo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
@@ -531,15 +589,15 @@
                 <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
-                        <div class="collapse" id="combo">
+                        <div class="collapse" id="oneWayCombo">
                             <div class="card-body">
                             <div class="h4">Advantages</div>
                                 <p>
-                                    Provides all the advantages of the 2-way remote starter and the 2-way security system.
-                                    Allows for communication with the user via their remote-control key fob notifying them, 
-                                    that the vehicle has started and has armed itself in situations where the user is not 
-                                    near the vehicle, and cannot see or hear the vehicle start or arm itself. ex.) festival 
-                                    parking, large parking lots, parking garages, etc.
+                                    Provides all the advantages of the 1-way remote starter and the 1-way security system.
+                                    1-way security and remote start systems are perfectly adequate in situations where the
+                                    user is close to the vehicle and can hear the vehicle chirp, see the lights flash, see
+                                    or hear the vehicle start, or see the parking lights turn on, indicating the alarm has
+                                    been set or successfully started.
                                     <br><br>
                                     Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
                                 </p>
@@ -550,13 +608,8 @@
                                     <li>Up to 1/4 mile range</li>
                                     <li>Horn Honk</li>
                                     <li>Includes two 1-Way remote</li>
-                                    <li>Up to one mile range</li>
-                                    <li>Rechargeable battery</li>
                                     <li>Directed® SmartStart Compatible</li>
-                                    <li>Flex relay and selectable light flash polarity</li>
-                                    <li>Manual transmission compatible</li>
                                     <li>Separate ESP2 and D2D ports</li>
-                                    <li>Priority Icon map with LCD display</li>
                                     <li>Onboard remote start relays</li>
                                 </ul>
                             </div>
@@ -612,7 +665,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#combo" aria-expanded="false" aria-controls="combo">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayCombo" aria-expanded="false" aria-controls="twoWayCombo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
@@ -624,7 +677,7 @@
                 <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
-                        <div class="collapse" id="combo">
+                        <div class="collapse" id="twoWayCombo">
                             <div class="card-body">
                             <div class="h4">Advantages</div>
                                 <p>
