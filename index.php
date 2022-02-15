@@ -88,6 +88,9 @@
                     <li class="nav-item">
                     <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
                     </li>
+                    <li class="nav-item">
+                    <a class="nav-link fs-5 fw-bold" href="#addOns">Add-on Systems</a>
+                    </li>
                 </ul>
             </div>
             <div class="fw-bold float-end call nav-item">(855)-934-0144</div>
@@ -104,68 +107,6 @@
         <div style="text-align:center;">
         <h1>Remote Starters and Security Systems Installation</h1>
     </div>
-        <!-- Smart Start DIV -->
-        <div>
-        <h2 class="text-left mt-3" id="smartStart">SmartStart</h2>
-            <div class="container rounded pt-3 mb-3 bg-white">
-                <div class="row">
-                    <div class="product">
-                        <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
-                            <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>            
-                            <img class="img-fluid" src="images/dsm550.png" alt="Directed SmartStart DSM 550">
-                            <p style="font-family: 'Orbitron';">Directed SmartStart Pro DSM 550</p>
-                        </fieldset>                         
-                    </div>
-                    <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">SmartStart System - Installed</h3>
-                        <div class="h6 text-center" style="font-family: Orbitron;">- Smart phone and Service Plan not included* -</div>
-                        <div class="descDiv">
-                            <p class="itemDesc">
-                            Directed SmartStart lets you remote start, lock and unlock your car with the push of a button on your smartphone.                            
-                            </p>
-                            <div class="priceGrid">
-                                <div class="without"></div>
-                                <div class="with"></div>
-                                <div class="costWithout">
-                                    <p class="price">$179.99</p>
-                                </div>
-                                <div class="costWith"></div>
-                                <div class="sep"> </div>
-                            </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
-                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-3 hideMobile"></div>
-                    <div class="col-9 featMobile">
-                        <div class="collapse" id="oneWayDetail">
-                            <div class="card-body">
-                                <div class="h4">Advantages</div>
-                                <p>
-                                    Directed SmartStart devices use the latest GPS and LTE cellular technology to connect you to your vehicle
-                                    from nearly anywhere in the world! Python SmartStart products, including Python Connect and Python
-                                    SmartStart Pro, require an active subscription plan to track, monitor, and receive alerts related to your vehicle.
-                                </p>
-                                <ul>
-                                    <li>Lock / Arm</li>
-                                    <li>Unlock / Disarm</li>
-                                    <li>Remote Car Starter</li>
-                                    <li>Trunk Release</li>
-                                    <li>Panic</li>
-                                    <li>Aux Channels</li>
-                                </ul>
-                                <p>
-                                    You can also control multiple vehicles - great for families! - and assign more than one user to control a vehicle.
-                                </p>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div>
-        </div>
         <!-- Security DIV -->
         <div>
             <h2 class="text-left mt-3" id="securitySystems">Security Systems</h2>
@@ -719,6 +660,68 @@
                         </div>
                     </div>
                 </div> -->
+            </div>
+        </div>
+        <!-- Smart Start DIV -->
+        <div>
+        <h2 class="text-left mt-3" id="addOns">Add-ons</h2>
+            <div class="container rounded pt-3 mb-3 bg-white">
+                <div class="row">
+                    <div class="product">
+                        <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
+                            <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>            
+                            <img class="img-fluid" src="images/dsm550.png" alt="Directed SmartStart DSM 550">
+                            <p style="font-family: 'Orbitron';">Directed SmartStart Pro DSM 550</p>
+                        </fieldset>                         
+                    </div>
+                    <div class="product desc">
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">SmartStart System - Installed</h3>
+                        <div class="h6 text-center" style="font-family: Orbitron;">- Smart phone and Service Plan not included* -</div>
+                        <div class="descDiv">
+                            <p class="itemDesc">
+                            Python SmartStart lets you remote start, lock and unlock your car with the push of a button on your smartphone.                            
+                            </p>
+                            <div class="priceGrid">
+                                <div class="without"></div>
+                                <div class="with"></div>
+                                <div class="costWithout">
+                                    <p class="price">$179.99</p>
+                                </div>
+                                <div class="costWith"></div>
+                                <div class="sep"> </div>
+                            </div>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
+                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="oneWayDetail">
+                            <div class="card-body">
+                                <div class="h4">Advantages</div>
+                                <p>
+                                    Python SmartStart devices use the latest GPS and LTE cellular technology to connect you to your vehicle
+                                    from nearly anywhere in the world! Python SmartStart products, including Python Connect and Python
+                                    SmartStart Pro, require an active subscription plan to track, monitor, and receive alerts related to your vehicle.
+                                </p>
+                                <ul>
+                                    <li>Lock / Arm</li>
+                                    <li>Unlock / Disarm</li>
+                                    <li>Remote Car Starter</li>
+                                    <li>Trunk Release</li>
+                                    <li>Panic</li>
+                                    <li>Aux Channels</li>
+                                </ul>
+                                <p>
+                                    You can also control multiple vehicles - great for families! - and assign more than one user to control a vehicle.
+                                </p>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
             </div>
         </div>
         <!-- Locations -->
