@@ -680,17 +680,19 @@
                                 Python SmartStart lets you remote start, lock and unlock your car with the push of a button on your smartphone.                            
                             </p>
                             <p>
-                                Python SmartStart devices use the latest GPS and LTE cellular technology to connect you to your vehicle
-                                from nearly anywhere in the world! Python SmartStart products, including Python Connect and Python
-                                SmartStart Pro, require an active subscription plan to track, monitor, and receive alerts related to your vehicle.
+                                The SmartStart system is an add-on unit that allows you to monitor and operate your car alarm, and or, remote
+                                starter from anywhere in the world from your smartphone.  A service plan is required.  The basic monthly
+                                service plan is free for a year!  Additional benefits (dependent on plan).
                             </p>
                             <ul>
-                                <li>Lock / Arm</li>
-                                <li>Unlock / Disarm</li>
-                                <li>Remote Car Starter</li>
-                                <li>Trunk Release</li>
-                                <li>Panic</li>
-                                <li>Aux Channels</li>
+                                <li>GPS monitoring and tracking</li>
+                                <li>Roadside assistance</li>
+                                <li>Trip history breadcrumb trails</li>
+                                <li>Battery alerts and check engine codes</li>
+                                <li>Careless driving alerts</li>
+                                <li>Web portal monitoring</li>
+                                <li>Monitor multiple vehicles from one account</li>
+                                <li>Vehicle impact alerts</li>
                             </ul>
                             <p>
                                 You can also control multiple vehicles - great for families! - and assign more than one user to control a vehicle.
