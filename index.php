@@ -32,7 +32,7 @@
     <script>
         $(document).ready(function(){
 
-            $('.featBtn').on('click', function(){
+            $('.featBtnAction').on('click', function(){
 
                 if ($(this).text().includes("↓ KEY")){
                     $(this).html("&uarr; KEY FEATURES AND SPECIFICATIONS &uarr;")
@@ -137,7 +137,7 @@
                                 <div class="costWith"></div>
                                 <div class="sep"> </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
                                     &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                         </div>
@@ -196,7 +196,7 @@
                                 <div class="costWith"></div>
                                 <div class="sep"></div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayAdv" aria-expanded="false" aria-controls="twoWayAdv">
@@ -288,7 +288,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                         </div>
@@ -356,7 +356,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote2" aria-expanded="false" aria-controls="oneWayRemote2">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote2" aria-expanded="false" aria-controls="oneWayRemote2">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                         </div>
@@ -425,7 +425,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemoteAdv" aria-expanded="false" aria-controls="twoWayRemoteAdv">
@@ -518,7 +518,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayCombo" aria-expanded="false" aria-controls="oneWayCombo">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayCombo" aria-expanded="false" aria-controls="oneWayCombo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
@@ -535,10 +535,8 @@
                             <div class="h4">Advantages</div>
                                 <p>
                                     Provides all the advantages of the 1-way remote starter and the 1-way security system.
-                                    1-way security and remote start systems are perfectly adequate in situations where the
-                                    user is close to the vehicle and can hear the vehicle chirp, see the lights flash, see
-                                    or hear the vehicle start, or see the parking lights turn on, indicating the alarm has
-                                    been set or successfully started.
+                                    This unit is perfectly adequate in situations where the user is close to the vehicle and
+                                    can hear or see the vehicle arm itself or witness the engine start. 
                                     <br><br>
                                     Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
                                 </p>
@@ -606,7 +604,7 @@
                                     <span class="divider"> | </span>
                                 </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayCombo" aria-expanded="false" aria-controls="twoWayCombo">
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayCombo" aria-expanded="false" aria-controls="twoWayCombo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
@@ -679,10 +677,24 @@
                         <div class="h6 text-center" style="font-family: Orbitron;">- Smart phone and Service Plan not included* -</div>
                         <div class="descDiv">
                             <p class="itemDesc">
-                            Python SmartStart lets you remote start, lock and unlock your car with the push of a button on your smartphone.                            
-                            <br><br>
-                            Service plan information <a style="color:black; font-weight:bolder;" target="blank" href="https://www.mysmartstart.com/plans/?b=d">here</a>!
+                                Python SmartStart lets you remote start, lock and unlock your car with the push of a button on your smartphone.                            
                             </p>
+                            <p>
+                                Python SmartStart devices use the latest GPS and LTE cellular technology to connect you to your vehicle
+                                from nearly anywhere in the world! Python SmartStart products, including Python Connect and Python
+                                SmartStart Pro, require an active subscription plan to track, monitor, and receive alerts related to your vehicle.
+                            </p>
+                            <ul>
+                                <li>Lock / Arm</li>
+                                <li>Unlock / Disarm</li>
+                                <li>Remote Car Starter</li>
+                                <li>Trunk Release</li>
+                                <li>Panic</li>
+                                <li>Aux Channels</li>
+                            </ul>
+                            <p>
+                                You can also control multiple vehicles - great for families! - and assign more than one user to control a vehicle.
+                            </p>                            
                             <div class="priceGrid">
                                 <div class="without"></div>
                                 <div class="with"></div>
@@ -692,23 +704,19 @@
                                 <div class="costWith"></div>
                                 <div class="sep"> </div>
                             </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
-                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
-                            </button>
+                            <a style="font-family: Orbitron; color:white; text-decoration: none;" href="https://www.mysmartstart.com/plans/?b=d" class="btn btn-secondary featBtn" target="blank">
+                                COMPARE FEATURES AND SERVICE PLANS
+                            </a>
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayDetail">
                             <div class="card-body">
                                 <div class="h4">Advantages</div>
-                                <p>
-                                    Python SmartStart devices use the latest GPS and LTE cellular technology to connect you to your vehicle
-                                    from nearly anywhere in the world! Python SmartStart products, including Python Connect and Python
-                                    SmartStart Pro, require an active subscription plan to track, monitor, and receive alerts related to your vehicle.
-                                </p>
+                                
                                 <ul>
                                     <li>Lock / Arm</li>
                                     <li>Unlock / Disarm</li>
@@ -723,7 +731,7 @@
                             </div>
                         </div> 
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Locations -->
