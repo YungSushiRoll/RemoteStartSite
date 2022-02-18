@@ -109,7 +109,7 @@
     </div>
     <!-- Starters DIV -->
     <div>
-            <h2 class="text-left" id="remoteStarters">Remote Starters</h2>
+            <h2 class="text-left mt-3" id="remoteStarters">Remote Starters</h2>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
@@ -339,7 +339,7 @@
         </div>
         <!-- Security DIV -->
         <div>
-            <h2 class="text-left mt-3" id="securitySystems">Security Systems</h2>
+            <h2 class="text-left" id="securitySystems">Security Systems</h2>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
