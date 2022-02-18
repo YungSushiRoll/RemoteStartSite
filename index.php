@@ -80,10 +80,10 @@
                     <a class="nav-link fs-5 fw-bold" aria-current="page" href="#">Home</a>
                     </li> -->
                     <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
+                    <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starters</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link fs-5 fw-bold" href="#remoteStarters">Remote Starters</a>
+                    <a class="nav-link fs-5 fw-bold" href="#securitySystems">Security Systems</a>
                     </li>
                     <li class="nav-item">
                     <a class="nav-link fs-5 fw-bold" href="#securityRemoteStart">Security with Remote Starter</a>
@@ -107,149 +107,8 @@
         <div style="text-align:center;">
         <h1>Remote Starters and Security Systems Installation</h1>
     </div>
-        <!-- Security DIV -->
-        <div>
-            <h2 class="text-left mt-3" id="securitySystems">Security Systems</h2>
-            <div class="container rounded pt-3 mb-3 bg-white">
-                <div class="row">
-                    <div class="product">
-                        <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
-                            <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>            
-                            <img class="img-fluid" src="images/python_3105P.jpg" alt="Python 3105P">
-                            <p style="font-family: 'Orbitron';">Python 3105P | 460 Max</p>
-                        </fieldset>                         
-                    </div>
-                    <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Security System - Installed</h3>
-                        <div class="descDiv">
-                            <p class="itemDesc">
-                            1-way entry-level security system with two 4-button remote controls. 
-                            The 3105 controls lock/unlock, trunk pop, and monitors all door statuses 
-                            for signs of entry. Includes starter kill, shock sensor, and six-tone 
-                            siren.
-                            </p>
-                            <div class="priceGrid">
-                                <div class="without"></div>
-                                <div class="with"></div>
-                                <div class="costWithout">
-                                    <p class="price">$225.00</p>
-                                </div>
-                                <div class="costWith"></div>
-                                <div class="sep"> </div>
-                            </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
-                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-3 hideMobile"></div>
-                    <div class="col-9 featMobile">
-                        <div class="collapse" id="oneWayDetail">
-                            <div class="card-body">
-                                <div class="h4">Advantages</div>
-                                <p>
-                                    1-way security systems are perfectly adequate in situations where the 
-                                    user is close to the vehicle and can hear the vehicle chirp or see 
-                                    the lights flash indicating the alarm has been set.
-                                </p>
-                                <ul>
-                                    <li>Clone-Safe® Code-Hopping®</li>
-                                    <li>Stinger® DoubleGuard® Shock Sensor</li>
-                                    <li>Revenger® 6-tone Siren</li>
-                                    <li>2 Auxiliary Outputs</li>
-                                    <li>Security/keyless entry system</li>
-                                    <li>Up to 1/4 mile range</li>
-                                    <li>Includes two 1-Way remotes</li>
-                                    <li>Directed® SmartStart Compatible</li>
-                                </ul>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div>
-            <div class="container rounded pt-3 mb-3 bg-white">
-                <div class="row">
-                    <div class="product">
-                        <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
-                            <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
-                            <img class="img-fluid" src="images/security.webp" alt="Python 3305P">                
-                            <p style="font-family: 'Orbitron';">Python 3305P | Responder 460</p>
-                        </fieldset>               
-                    </div>                       
-                    <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way Security System - Installed</h3>
-                        <div>
-                            <p class="itemDesc">
-                                2-way security system includes 2-way remote control with liquid-crystal 
-                                display and one 4-button companion remote control. The 3305 controls 
-                                lock/unlock, trunk pop, and monitors all door statuses for signs of 
-                                entry. Includes starter kill, shock sensor, and six-tone siren.
-                            </p>
-                            <div class="priceGrid">
-                                <div class="without"></div>
-                                <div class="with"></div>
-                                <div class="costWithout">
-                                    <p class="price">$262.00</p>
-                                </div>
-                                <div class="costWith"></div>
-                                <div class="sep"></div>
-                            </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
-                                &darr; KEY FEATURES AND SPECIFICATIONS &darr;
-                            </button>
-                            <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayAdv" aria-expanded="false" aria-controls="twoWayAdv">
-                                &darr; ADVANTAGES OVER 1-WAY &darr;
-                            </button> -->
-                        </div>
-                    </div> 
-                </div>
-                <!-- Key Feats -->
-                <div class="row">
-                    <div class="col-3 hideMobile"></div>
-                    <div class="col-9 featMobile">
-                        <div class="collapse" id="twoWayDetail">
-                            <div class="card-body">
-                            <div class="h4">Advantages</div>
-                                <p>
-                                    2-way security systems communicate with the user via a remote-control 
-                                    key fob notifying them that the alarm has been set.
-                                </p>
-                                <p>
-                                    Most advantagous when user is away from the vehicle and cannot hear 
-                                    the vehicle chirp or see the lights flash indicating the alarm 
-                                    has been set ex.) large parking lots, parking garages, etc.
-                                </p>
-                                <ul>
-                                    <li>Security and keyless entry system</li>
-                                    <li>Clone-Safe® Code-Hopping®</li>
-                                    <li>Stinger® DoubleGuard® Shock Sensor</li>
-                                    <li>Revenger® 6-tone Siren</li>
-                                    <li>2 Auxiliary Outputs</li>
-                                    <li>Up to 1/4 mile range</li>
-                                    <li>Includes 1-Way companion remote</li>
-                                    <li>Directed® SmartStart Compatible</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Advantages section
-                <div class="row">
-                    <div class="col-3 hideMobile"></div>
-                    <div class="col-9 featMobile">
-                        <div class="collapse" id="twoWayAdv">
-                            <div class="card-body">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-            </div>
-        </div>
-        <!-- Starters DIV -->
-        <div>
+    <!-- Starters DIV -->
+    <div>
             <h2 class="text-left" id="remoteStarters">Remote Starters</h2>
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
@@ -478,6 +337,147 @@
                 </div> -->
             </div>
         </div>
+        <!-- Security DIV -->
+        <div>
+            <h2 class="text-left mt-3" id="securitySystems">Security Systems</h2>
+            <div class="container rounded pt-3 mb-3 bg-white">
+                <div class="row">
+                    <div class="product">
+                        <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
+                            <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>            
+                            <img class="img-fluid" src="images/python_3105P.jpg" alt="Python 3105P">
+                            <p style="font-family: 'Orbitron';">Python 3105P | 460 Max</p>
+                        </fieldset>                         
+                    </div>
+                    <div class="product desc">
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Security System - Installed</h3>
+                        <div class="descDiv">
+                            <p class="itemDesc">
+                            1-way entry-level security system with two 4-button remote controls. 
+                            The 3105 controls lock/unlock, trunk pop, and monitors all door statuses 
+                            for signs of entry. Includes starter kill, shock sensor, and six-tone 
+                            siren.
+                            </p>
+                            <div class="priceGrid">
+                                <div class="without"></div>
+                                <div class="with"></div>
+                                <div class="costWithout">
+                                    <p class="price">$225.00</p>
+                                </div>
+                                <div class="costWith"></div>
+                                <div class="sep"> </div>
+                            </div>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayDetail" aria-expanded="false" aria-controls="oneWayDetail">
+                                    &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="oneWayDetail">
+                            <div class="card-body">
+                                <div class="h4">Advantages</div>
+                                <p>
+                                    1-way security systems are perfectly adequate in situations where the 
+                                    user is close to the vehicle and can hear the vehicle chirp or see 
+                                    the lights flash indicating the alarm has been set.
+                                </p>
+                                <ul>
+                                    <li>Clone-Safe® Code-Hopping®</li>
+                                    <li>Stinger® DoubleGuard® Shock Sensor</li>
+                                    <li>Revenger® 6-tone Siren</li>
+                                    <li>2 Auxiliary Outputs</li>
+                                    <li>Security/keyless entry system</li>
+                                    <li>Up to 1/4 mile range</li>
+                                    <li>Includes two 1-Way remotes</li>
+                                    <li>Directed® SmartStart Compatible</li>
+                                </ul>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+            <div class="container rounded pt-3 mb-3 bg-white">
+                <div class="row">
+                    <div class="product">
+                        <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
+                            <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
+                            <img class="img-fluid" src="images/security.webp" alt="Python 3305P">                
+                            <p style="font-family: 'Orbitron';">Python 3305P | Responder 460</p>
+                        </fieldset>               
+                    </div>                       
+                    <div class="product desc">
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way Security System - Installed</h3>
+                        <div>
+                            <p class="itemDesc">
+                                2-way security system includes 2-way remote control with liquid-crystal 
+                                display and one 4-button companion remote control. The 3305 controls 
+                                lock/unlock, trunk pop, and monitors all door statuses for signs of 
+                                entry. Includes starter kill, shock sensor, and six-tone siren.
+                            </p>
+                            <div class="priceGrid">
+                                <div class="without"></div>
+                                <div class="with"></div>
+                                <div class="costWithout">
+                                    <p class="price">$262.00</p>
+                                </div>
+                                <div class="costWith"></div>
+                                <div class="sep"></div>
+                            </div>
+                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
+                                &darr; KEY FEATURES AND SPECIFICATIONS &darr;
+                            </button>
+                            <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayAdv" aria-expanded="false" aria-controls="twoWayAdv">
+                                &darr; ADVANTAGES OVER 1-WAY &darr;
+                            </button> -->
+                        </div>
+                    </div> 
+                </div>
+                <!-- Key Feats -->
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="twoWayDetail">
+                            <div class="card-body">
+                            <div class="h4">Advantages</div>
+                                <p>
+                                    2-way security systems communicate with the user via a remote-control 
+                                    key fob notifying them that the alarm has been set.
+                                </p>
+                                <p>
+                                    Most advantagous when user is away from the vehicle and cannot hear 
+                                    the vehicle chirp or see the lights flash indicating the alarm 
+                                    has been set ex.) large parking lots, parking garages, etc.
+                                </p>
+                                <ul>
+                                    <li>Security and keyless entry system</li>
+                                    <li>Clone-Safe® Code-Hopping®</li>
+                                    <li>Stinger® DoubleGuard® Shock Sensor</li>
+                                    <li>Revenger® 6-tone Siren</li>
+                                    <li>2 Auxiliary Outputs</li>
+                                    <li>Up to 1/4 mile range</li>
+                                    <li>Includes 1-Way companion remote</li>
+                                    <li>Directed® SmartStart Compatible</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Advantages section
+                <div class="row">
+                    <div class="col-3 hideMobile"></div>
+                    <div class="col-9 featMobile">
+                        <div class="collapse" id="twoWayAdv">
+                            <div class="card-body">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+        </div>
         <!-- Secuirty & Starters DIV -->
         <div>
             <h2 class="text-left" id="securityRemoteStart">Security with Remote Starter</h2>
@@ -699,7 +699,7 @@
                             </p>                            
                             <div class="priceGrid">
                                 <div class="without"></div>
-                                <div class="with"></div>
+                                <div class="with"></div>  
                                 <div class="costWithout">
                                     <p class="price">$179.99</p>
                                 </div>
