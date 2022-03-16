@@ -116,7 +116,7 @@
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
                             <img class="img-fluid" src="images/4105P.png" alt="Python 4105P">
-                            <p style="font-family: 'Orbitron';">Python 4105P</p>
+                            <!-- <p style="font-family: 'Orbitron';">Python 4105P</p> -->
                         </fieldset>                 
                     </div>
                     <div class="product desc">
@@ -127,24 +127,19 @@
                                 1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
                                 4-button remote controls.
                             </p>
-                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
-                            start system to the vehicles</p>
+                            start system to the vehicles</p> -->
                             <div class="priceGrid">
                                 <div class="without">
-                                    <span class="disc">(without DB3 Bypass Module)</span>  
                                 </div>
                                 <div class="with">
-                                    <span class="disc">(with DB3 Bypass Module)</span>
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$199.99</p>
-                                </div>
+                                    <p class="price">$299.99</p></div>
                                 <div class="costWith">
-                                    <p class="price">$299.99</p>
                                 </div>
                                 <div class="sep">
-                                    <span class="divider"> | </span>
                                 </div>
                             </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote" aria-expanded="false" aria-controls="oneWayRemote">
@@ -184,7 +179,7 @@
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
                             <img class="img-fluid" src="images/4115P.png" alt="Python 4115P">
-                            <p style="font-family: 'Orbitron';">Python 4115P</p>
+                            <!-- <p style="font-family: 'Orbitron';">Python 4115P</p> -->
                         </fieldset>                 
                     </div>
                     <div class="product desc">
@@ -195,24 +190,20 @@
                                 1-Way Remote car starting system. Includes two 
                                 1-button remote controls.
                             </p>
-                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
-                            start system to the vehicles</p>
+                            start system to the vehicles</p> -->
                             <div class="priceGrid">
-                                <div class="without">
-                                    <span class="disc">(without DB3 Bypass Module)</span>  
+                                <div class="without">  
                                 </div>
                                 <div class="with">
-                                    <span class="disc">(with DB3 Bypass Module)</span>
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$199.99</p>
-                                </div>
-                                <div class="costWith">
                                     <p class="price">$299.99</p>
                                 </div>
+                                <div class="costWith">
+                                </div>
                                 <div class="sep">
-                                    <span class="divider"> | </span>
                                 </div>
                             </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayRemote2" aria-expanded="false" aria-controls="oneWayRemote2">
@@ -252,7 +243,7 @@
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
                             <img class="img-fluid" src="images/4806.png" alt="Python 4806P">                
-                            <p style="font-family: 'Orbitron';">Python 4806P</p>
+                            <!-- <p style="font-family: 'Orbitron';">Python 4806P</p> -->
                         </fieldset>               
                     </div>
                     <div class="product desc">
@@ -264,24 +255,20 @@
                             for an expanded one-mile range and includes one 2-way remote control with LED 
                             command confirmation and one companion remote.
                             </p>
-                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
-                            start system to the vehicles</p>
+                            start system to the vehicles</p> -->
                             <div class="priceGrid">
-                                <div class="without">
-                                    <span class="disc">(without DB3 Bypass Module)</span>  
+                                <div class="without"> 
                                 </div>
                                 <div class="with">
-                                    <span class="disc">(with DB3 Bypass Module)</span>
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$339.99</p>
-                                </div>
-                                <div class="costWith">
                                     <p class="price">$439.99</p>
                                 </div>
+                                <div class="costWith">
+                                </div>
                                 <div class="sep">
-                                    <span class="divider"> | </span>
                                 </div>
                             </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
@@ -346,7 +333,7 @@
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>            
                             <img class="img-fluid" src="images/python_3105P.jpg" alt="Python 3105P">
-                            <p style="font-family: 'Orbitron';">Python 3105P | 460 Max</p>
+                            <!-- <p style="font-family: 'Orbitron';">Python 3105P | 460 Max</p> -->
                         </fieldset>                         
                     </div>
                     <div class="product desc">
@@ -354,7 +341,7 @@
                         <div class="descDiv">
                             <p class="itemDesc">
                             1-way entry-level security system with two 4-button remote controls. 
-                            The 3105 controls lock/unlock, trunk pop, and monitors all door statuses 
+                            Controls lock/unlock, trunk pop, and monitors all door statuses 
                             for signs of entry. Includes starter kill, shock sensor, and six-tone 
                             siren.
                             </p>
@@ -405,7 +392,7 @@
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
                             <img class="img-fluid" src="images/security.webp" alt="Python 3305P">                
-                            <p style="font-family: 'Orbitron';">Python 3305P | Responder 460</p>
+                            <!-- <p style="font-family: 'Orbitron';">Python 3305P | Responder 460</p> -->
                         </fieldset>               
                     </div>                       
                     <div class="product desc">
@@ -413,7 +400,7 @@
                         <div>
                             <p class="itemDesc">
                                 2-way security system includes 2-way remote control with liquid-crystal 
-                                display and one 4-button companion remote control. The 3305 controls 
+                                display and one 4-button companion remote control. Controls 
                                 lock/unlock, trunk pop, and monitors all door statuses for signs of 
                                 entry. Includes starter kill, shock sensor, and six-tone siren.
                             </p>
@@ -487,7 +474,7 @@
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
                             <img class="img-fluid" src="images/5105P.png" alt="Python 5105P">
-                            <p style="font-family: 'Orbitron';">Python 5105P</p>
+                            <!-- <p style="font-family: 'Orbitron';">Python 5105P</p> -->
                         </fieldset>                
                     </div>    
                     <div class="product desc">
@@ -498,24 +485,20 @@
                             1-Way Security and Remote Start System with lock/unlock and trunk pop, features 1/4-mile
                             range and two 4-button 1-way remote controls.
                             </p>
-                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
-                            start system to the vehicles</p>
+                            start system to the vehicles</p> -->
                             <div class="priceGrid">
                                 <div class="without">
-                                    <span class="disc">(without DB3 Bypass Module)</span>  
                                 </div>
                                 <div class="with">
-                                    <span class="disc">(with DB3 Bypass Module)</span>
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$334.00</p>
-                                </div>
-                                <div class="costWith">
                                     <p class="price">$434.00</p>
                                 </div>
+                                <div class="costWith">
+                                </div>
                                 <div class="sep">
-                                    <span class="divider"> | </span>
                                 </div>
                             </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayCombo" aria-expanded="false" aria-controls="oneWayCombo">
@@ -573,7 +556,7 @@
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                
                             <img class="img-fluid" src="images/5706P.png" alt="Python 5706P">
-                            <p style="font-family: 'Orbitron';">Python 5706P</p>
+                            <!-- <p style="font-family: 'Orbitron';">Python 5706P</p> -->
                         </fieldset>                
                     </div>    
                     <div class="product desc">
@@ -584,24 +567,20 @@
                             LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
                             Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
                             </p>
-                            <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
+                            <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
-                            start system to the vehicles</p>
+                            start system to the vehicles</p> -->
                             <div class="priceGrid">
                                 <div class="without">
-                                    <span class="disc">(without DB3 Bypass Module)</span>  
                                 </div>
                                 <div class="with">
-                                    <span class="disc">(with DB3 Bypass Module)</span>
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$549.99</p>
-                                </div>
-                                <div class="costWith">
                                     <p class="price">$649.99</p>
                                 </div>
+                                <div class="costWith">
+                                </div>
                                 <div class="sep">
-                                    <span class="divider"> | </span>
                                 </div>
                             </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayCombo" aria-expanded="false" aria-controls="twoWayCombo">
@@ -669,7 +648,7 @@
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>            
                             <img class="img-fluid" src="images/dsm550.png" alt="Directed SmartStart DSM 550">
-                            <p style="font-family: 'Orbitron';">Directed SmartStart Pro DSM 550</p>
+                            <!-- <p style="font-family: 'Orbitron';">Directed SmartStart Pro DSM 550</p> -->
                         </fieldset>                         
                     </div>
                     <div class="product desc">
