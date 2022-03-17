@@ -732,6 +732,9 @@
                     <div class="loc">
                         1780 Allouez Ave., Unit E - 2, Green Bay, WI 54311
                     </div>
+                    <div class="loc">
+                        505 Nathan Lane #3B Elkhorn, Wisconsin 53121
+                    </div>
                 </div>
             </div>
         </div>
