@@ -120,12 +120,13 @@
                         </fieldset>                 
                     </div>
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System - Installed</h3>
-                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way 4 Button Remote Start System - Installed</h3>
+                        <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">  
-                                1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
-                                4-button remote controls.
+                                1-way Remote Start Systems are perfectly adequate in situations where the user is close 
+                                to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
+                                indicating the vehicle started.
                             </p>
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
@@ -153,11 +154,10 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayRemote">
                             <div class="card-body">
-                            <div class="h4">Advantages</div>
+                            <!-- <div class="h4">Advantages</div> -->
                                 <p>
-                                    1-way Remote Start Systems are perfectly adequate in situations where the user is close 
-                                    to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
-                                    indicating the vehicle started.
+                                    1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
+                                    4-button remote controls.                                    
                                 </p>
                                 <ul>
                                     <li>Up to 1/4 mile range</li>
@@ -183,13 +183,14 @@
                         </fieldset>                 
                     </div>
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Remote Start System - Installed</h3>
-                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way 1 Button Remote Start System - Installed</h3>
+                        <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
-                            <p class="itemDesc">  
-                                1-Way Remote car starting system. Includes two 
-                                1-button remote controls.
-                            </p>
+                            <p class="itemDesc">1-way Remote Start Systems are perfectly adequate in situations where the user is close 
+                                to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
+                                indicating the vehicle started.
+                            </p>    
+                            
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
                             start system to the vehicles</p> -->
@@ -217,11 +218,10 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayRemote2">
                             <div class="card-body">
-                            <div class="h4">Advantages</div>
+                            <!-- <div class="h4">Advantages</div> -->
                                 <p>
-                                    1-way Remote Start Systems are perfectly adequate in situations where the user is close 
-                                    to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
-                                    indicating the vehicle started.
+                                    1-Way Remote car starting system. Includes two 
+                                    1-button remote controls.                                    
                                 </p>
                                 <ul>
                                     <li>Up to 1/4 mile range</li>
@@ -247,13 +247,16 @@
                         </fieldset>               
                     </div>
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way Remote Start System - Installed</h3>
-                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way 4 Button Remote Start System - Installed</h3>
+                        <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">
-                            2-way Remote car starting system with lock/unlock and trunk pop features. Allows 
-                            for an expanded one-mile range and includes one 2-way remote control with LED 
-                            command confirmation and one companion remote.
+                                2-way remote starters communicate with the user via their key fob notifying 
+                                them, that the vehicle has started. Most advantagous in situations where the user cannot 
+                                hear or see the vehicle start. ex.) festival parking, large parking lots, 
+                                parking garages, etc.<br><br>
+                                Additionally, this unit has an expanded 1-mile range vs. a ¼ mile range 
+                                available with the 1-way remote starter.
                             </p>
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
@@ -285,14 +288,11 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayRemote">
                             <div class="card-body">
-                            <div class="h4">Advantages</div>
+                            <!-- <div class="h4">Advantages</div> -->
                                 <p>
-                                    2-way remote starters communicate with the user via their key fob notifying 
-                                    them, that the vehicle has started. Most advantagous in situations where the user cannot 
-                                    hear or see the vehicle start. ex.) festival parking, large parking lots, 
-                                    parking garages, etc.<br><br>
-                                    Additionally, this unit has an expanded 1-mile range vs. a ¼ mile range 
-                                    available with the 1-way remote starter.
+                                    2-way Remote car starting system with lock/unlock and trunk pop features. Allows 
+                                    for an expanded one-mile range and includes one 2-way remote control with LED 
+                                    command confirmation and one companion remote.                                    
                                 </p>
                                 <ul>
                                     <li>4 auxiliary channels</li>
@@ -337,13 +337,12 @@
                         </fieldset>                         
                     </div>
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Security System - Installed</h3>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way 4 Button Security System - Installed</h3>
                         <div class="descDiv">
                             <p class="itemDesc">
-                            1-way entry-level security system with two 4-button remote controls. 
-                            Controls lock/unlock, trunk pop, and monitors all door statuses 
-                            for signs of entry. Includes starter kill, shock sensor, and six-tone 
-                            siren.
+                                1-way security systems are perfectly adequate in situations where the 
+                                user is close to the vehicle and can hear the vehicle chirp or see 
+                                the lights flash indicating the alarm has been set.
                             </p>
                             <div class="priceGrid">
                                 <div class="without"></div>
@@ -365,11 +364,13 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayDetail">
                             <div class="card-body">
-                                <div class="h4">Advantages</div>
+                                <!-- <div class="h4">Advantages</div> -->
                                 <p>
-                                    1-way security systems are perfectly adequate in situations where the 
-                                    user is close to the vehicle and can hear the vehicle chirp or see 
-                                    the lights flash indicating the alarm has been set.
+                                    1-way entry-level security system with two 4-button remote controls. 
+                                    Controls lock/unlock, trunk pop, and monitors all door statuses 
+                                    for signs of entry. Includes starter kill, shock sensor, and six-tone 
+                                    siren.
+                                    
                                 </p>
                                 <ul>
                                     <li>Clone-Safe® Code-Hopping®</li>
@@ -396,13 +397,11 @@
                         </fieldset>               
                     </div>                       
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way Security System - Installed</h3>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way 4 Button Security System - Installed</h3>
                         <div>
                             <p class="itemDesc">
-                                2-way security system includes 2-way remote control with liquid-crystal 
-                                display and one 4-button companion remote control. Controls 
-                                lock/unlock, trunk pop, and monitors all door statuses for signs of 
-                                entry. Includes starter kill, shock sensor, and six-tone siren.
+                                2-way security systems communicate with the user via a remote-control 
+                                key fob notifying them that the alarm has been set.
                             </p>
                             <div class="priceGrid">
                                 <div class="without"></div>
@@ -428,10 +427,12 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayDetail">
                             <div class="card-body">
-                            <div class="h4">Advantages</div>
+                            <!-- <div class="h4">Advantages</div> -->
                                 <p>
-                                    2-way security systems communicate with the user via a remote-control 
-                                    key fob notifying them that the alarm has been set.
+                                    2-way security system includes 2-way remote control with liquid-crystal 
+                                    display and one 4-button companion remote control. Controls 
+                                    lock/unlock, trunk pop, and monitors all door statuses for signs of 
+                                    entry. Includes starter kill, shock sensor, and six-tone siren.                                
                                 </p>
                                 <p>
                                     Most advantagous when user is away from the vehicle and cannot hear 
@@ -478,12 +479,16 @@
                         </fieldset>                
                     </div>    
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way Security and Remote Start System - Installed</h3>
-                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way 4 Button Security and Remote Start System - Installed</h3>
+                        <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">
-                            1-Way Security and Remote Start System with lock/unlock and trunk pop, features 1/4-mile
-                            range and two 4-button 1-way remote controls.
+                            
+                                Provides all the advantages of the 1-way remote starter and the 1-way security system.
+                                This unit is perfectly adequate in situations where the user is close to the vehicle and
+                                can hear or see the vehicle arm itself or witness the engine start. 
+                                <br><br>
+                                Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
                             </p>
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
@@ -515,13 +520,10 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayCombo">
                             <div class="card-body">
-                            <div class="h4">Advantages</div>
+                            <!-- <div class="h4">Advantages</div> -->
                                 <p>
-                                    Provides all the advantages of the 1-way remote starter and the 1-way security system.
-                                    This unit is perfectly adequate in situations where the user is close to the vehicle and
-                                    can hear or see the vehicle arm itself or witness the engine start. 
-                                    <br><br>
-                                    Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
+                                    1-Way Security and Remote Start System with lock/unlock and trunk pop, features 1/4-mile
+                                    range and two 4-button 1-way remote controls.
                                 </p>
                                 <ul>
                                     <li>Stinger® DoubleGuard® Shock Sensor</li>
@@ -560,12 +562,17 @@
                         </fieldset>                
                     </div>    
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LCD 2-Way Security and Remote Start System - Installed</h3>
-                        <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LCD 2-Way 5 Button Security and Remote Start System - Installed</h3>
+                        <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">
-                            LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
-                            Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
+                                Provides all the advantages of the 2-way remote starter and the 2-way security system.
+                                Allows for communication with the user via their remote-control key fob notifying them, 
+                                that the vehicle has started and has armed itself in situations where the user is not 
+                                near the vehicle, and cannot see or hear the vehicle start or arm itself. ex.) festival 
+                                parking, large parking lots, parking garages, etc.
+                                <br><br>
+                                Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.     
                             </p>
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
@@ -597,15 +604,10 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayCombo">
                             <div class="card-body">
-                            <div class="h4">Advantages</div>
+                            <!-- <div class="h4">Advantages</div> -->
                                 <p>
-                                    Provides all the advantages of the 2-way remote starter and the 2-way security system.
-                                    Allows for communication with the user via their remote-control key fob notifying them, 
-                                    that the vehicle has started and has armed itself in situations where the user is not 
-                                    near the vehicle, and cannot see or hear the vehicle start or arm itself. ex.) festival 
-                                    parking, large parking lots, parking garages, etc.
-                                    <br><br>
-                                    Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
+                                    LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
+                                    Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
                                 </p>
                                 <ul>
                                     <li>Stinger® DoubleGuard® Shock Sensor</li>
