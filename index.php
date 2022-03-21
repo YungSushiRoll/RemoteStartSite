@@ -125,7 +125,7 @@
                         <div>
                             <p class="itemDesc">  
                                 1-way Remote Start Systems are perfectly adequate in situations where the user is close 
-                                to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
+                                to the vehicle and can hear the vehicle start or see the parking lights turn on, 
                                 indicating the vehicle started.
                             </p>
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
