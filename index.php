@@ -187,7 +187,7 @@
                         <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">1-way Remote Start Systems are perfectly adequate in situations where the user is close 
-                                to the vehicle and can see or hear the vehicle start or see the parking lights turn on, 
+                                to the vehicle and can hear the vehicle start or see the parking lights turn on, 
                                 indicating the vehicle started.
                             </p>    
                             
@@ -472,9 +472,9 @@
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
-                        <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
+                        <fieldset class="oos border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
-                            <img class="img-fluid" src="images/5105P.png" alt="Python 5105P">
+                            <img class="img-fluid" src="images/4105P_oos.png" alt="Python 5105P">
                             <!-- <p style="font-family: 'Orbitron';">Python 5105P</p> -->
                         </fieldset>                
                     </div>    
@@ -569,7 +569,7 @@
                                 Provides all the advantages of the 2-way remote starter and the 2-way security system.
                                 Allows for communication with the user via their remote-control key fob notifying them, 
                                 that the vehicle has started and has armed itself in situations where the user is not 
-                                near the vehicle, and cannot see or hear the vehicle start or arm itself. ex.) festival 
+                                near the vehicle, and cannot hear the vehicle start or arm itself. ex.) festival 
                                 parking, large parking lots, parking garages, etc.
                                 <br><br>
                                 Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.     
