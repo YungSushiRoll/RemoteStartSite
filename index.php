@@ -390,7 +390,7 @@
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
-                        <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
+                        <fieldset class="oos border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
                             <img class="img-fluid" src="images/security_oos.png" alt="Python 3305P">                
                             <!-- <p style="font-family: 'Orbitron';">Python 3305P | Responder 460</p> -->
