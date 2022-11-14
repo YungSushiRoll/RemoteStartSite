@@ -247,7 +247,7 @@
                         </fieldset>               
                     </div>
                     <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way 4 Button Remote Start System - Installed</h3>
+                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way 5 Button Remote Start System - Installed</h3>
                         <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">
