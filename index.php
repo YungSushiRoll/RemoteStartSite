@@ -682,7 +682,7 @@
                                 <div class="without"></div>
                                 <div class="with"></div>  
                                 <div class="costWithout">
-                                    <p class="price">$129.99</p>
+                                    <p class="price">$179.99</p>
                                 </div>
                                 <div class="costWith"></div>
                                 <div class="sep"> </div>
