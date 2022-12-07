@@ -137,7 +137,7 @@
                                 <div class="with">
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$299.99</p></div>
+                                    <p class="price">$249.99</p></div>
                                 <div class="costWith">
                                 </div>
                                 <div class="sep">
@@ -200,7 +200,7 @@
                                 <div class="with">
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$299.99</p>
+                                    <p class="price">$249.99</p>
                                 </div>
                                 <div class="costWith">
                                 </div>
@@ -267,7 +267,7 @@
                                 <div class="with">
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$439.99</p>
+                                    <p class="price">$389.99</p>
                                 </div>
                                 <div class="costWith">
                                 </div>
@@ -348,7 +348,7 @@
                                 <div class="without"></div>
                                 <div class="with"></div>
                                 <div class="costWithout">
-                                    <p class="price">$225.00</p>
+                                    <p class="price">$175.00</p>
                                 </div>
                                 <div class="costWith"></div>
                                 <div class="sep"> </div>
@@ -387,19 +387,19 @@
                     </div>
                 </div>
             </div>
-            <div class="container rounded pt-3 mb-3 bg-white">
-                <div class="row">
-                    <div class="product">
-                        <fieldset class="oos border border-warning mb-3 form-group rounded shadow-lg">
-                            <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
-                            <img class="img-fluid" src="images/security_oos.png" alt="Python 3305P">                
+            <!-- <div class="container rounded pt-3 mb-3 bg-white"> -->
+                <!-- <div class="row"> -->
+                    <!-- <div class="product"> -->
+                        <!-- <fieldset class="oos border border-warning mb-3 form-group rounded shadow-lg"> -->
+                            <!-- <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                     -->
+                            <!-- <img class="img-fluid" src="images/security_oos.png" alt="Python 3305P">                 -->
                             <!-- <p style="font-family: 'Orbitron';">Python 3305P | Responder 460</p> -->
-                        </fieldset>               
-                    </div>                       
-                    <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way 4 Button Security System - Installed</h3>
-                        <div>
-                            <p class="itemDesc">
+                        <!-- </fieldset>                -->
+                    <!-- </div>                        -->
+                    <!-- <div class="product desc"> -->
+                        <!-- <h3 class="text-center" style="font-family: Orbitron; font-weight: bold;">2-Way 4 Button Security System - Installed</h3> -->
+                        <!-- <div> -->
+                            <!-- <p class="itemDesc">
                                 2-way security systems communicate with the user via a remote-control 
                                 key fob notifying them that the alarm has been set.
                             </p>
@@ -407,28 +407,28 @@
                                 <div class="without"></div>
                                 <div class="with"></div>
                                 <div class="costWithout">
-                                    <p class="price">$262.00</p>
+                                    <p class="price">$212.00</p>
                                 </div>
                                 <div class="costWith"></div>
                                 <div class="sep"></div>
                             </div>
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayDetail" aria-expanded="false" aria-controls="twoWayDetail">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
-                            </button>
+                            </button> -->
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayAdv" aria-expanded="false" aria-controls="twoWayAdv">
                                 &darr; ADVANTAGES OVER 1-WAY &darr;
                             </button> -->
-                        </div>
-                    </div> 
-                </div>
+                        <!-- </div> -->
+                    <!-- </div>  -->
+                <!-- </div> -->
                 <!-- Key Feats -->
-                <div class="row">
-                    <div class="col-3 hideMobile"></div>
-                    <div class="col-9 featMobile">
-                        <div class="collapse" id="twoWayDetail">
-                            <div class="card-body">
+                <!-- <div class="row"> -->
+                    <!-- <div class="col-3 hideMobile"></div> -->
+                    <!-- <div class="col-9 featMobile"> -->
+                        <!-- <div class="collapse" id="twoWayDetail"> -->
+                            <!-- <div class="card-body"> -->
                             <!-- <div class="h4">Advantages</div> -->
-                                <p>
+                                <!-- <p>
                                     2-way security system includes 2-way remote control with liquid-crystal 
                                     display and one 4-button companion remote control. Controls 
                                     lock/unlock, trunk pop, and monitors all door statuses for signs of 
@@ -448,11 +448,11 @@
                                     <li>Up to 1/4 mile range</li>
                                     <li>Includes 1-Way companion remote</li>
                                     <li>Directed® SmartStart Compatible</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                                </ul> -->
+                            <!-- </div> -->
+                        <!-- </div> -->
+                    <!-- </div> -->
+                <!-- </div> -->
                 <!-- Advantages section
                 <div class="row">
                     <div class="col-3 hideMobile"></div>
@@ -464,64 +464,64 @@
                         </div>
                     </div>
                 </div> -->
-            </div>
+            <!-- </div> -->
         </div>
         <!-- Secuirty & Starters DIV -->
         <div>
             <h2 class="text-left" id="securityRemoteStart">Security with Remote Starter</h2>
-            <div class="container rounded pt-3 mb-3 bg-white">
-                <div class="row">
-                    <div class="product">
-                        <fieldset class="oos border border-success mb-3 form-group rounded shadow-lg">
-                            <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
-                            <img class="img-fluid" src="images/4105P_oos.png" alt="Python 5105P">
+            <!-- <div class="container rounded pt-3 mb-3 bg-white"> -->
+                <!-- <div class="row"> -->
+                    <!-- <div class="product"> -->
+                        <!-- <fieldset class="oos border border-success mb-3 form-group rounded shadow-lg"> -->
+                            <!-- <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                 -->
+                            <!-- <img class="img-fluid" src="images/4105P_oos.png" alt="Python 5105P"> -->
                             <!-- <p style="font-family: 'Orbitron';">Python 5105P</p> -->
-                        </fieldset>                
-                    </div>    
-                    <div class="product desc">
-                        <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way 4 Button Security and Remote Start System - Installed</h3>
+                        <!-- </fieldset>                 -->
+                    <!-- </div>     -->
+                    <!-- <div class="product desc"> -->
+                        <!-- <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way 4 Button Security and Remote Start System - Installed</h3> -->
                         <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
-                        <div>
-                            <p class="itemDesc">
+                        <!-- <div> -->
+                            <!-- <p class="itemDesc">
                             
                                 Provides all the advantages of the 1-way remote starter and the 1-way security system.
                                 This unit is perfectly adequate in situations where the user is close to the vehicle and
                                 can hear or see the vehicle arm itself or witness the engine start. 
                                 <br><br>
                                 Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.
-                            </p>
+                            </p> -->
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
                             start system to the vehicles</p> -->
-                            <div class="priceGrid">
+                            <!-- <div class="priceGrid">
                                 <div class="without">
                                 </div>
                                 <div class="with">
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$434.00</p>
+                                    <p class="price">$384.00</p>
                                 </div>
                                 <div class="costWith">
                                 </div>
                                 <div class="sep">
                                 </div>
-                            </div>
-                            <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayCombo" aria-expanded="false" aria-controls="oneWayCombo">
+                            </div> -->
+                            <!-- <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#oneWayCombo" aria-expanded="false" aria-controls="oneWayCombo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
-                            </button>
+                            </button> -->
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
                                 &darr; ADVANTAGES OVER 1-WAY &darr;
                             </button> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-3 hideMobile"></div>
-                    <div class="col-9 featMobile">
-                        <div class="collapse" id="oneWayCombo">
-                            <div class="card-body">
+                        <!-- </div> -->
+                    <!-- </div> -->
+                <!-- </div> -->
+                <!-- <div class="row"> -->
+                    <!-- <div class="col-3 hideMobile"></div> -->
+                    <!-- <div class="col-9 featMobile"> -->
+                        <!-- <div class="collapse" id="oneWayCombo"> -->
+                            <!-- <div class="card-body"> -->
                             <!-- <div class="h4">Advantages</div> -->
-                                <p>
+                                <!-- <p>
                                     1-Way Security and Remote Start System with lock/unlock and trunk pop, features 1/4-mile
                                     range and two 4-button 1-way remote controls.
                                 </p>
@@ -535,11 +535,11 @@
                                     <li>Directed® SmartStart Compatible</li>
                                     <li>Separate ESP2 and D2D ports</li>
                                     <li>Onboard remote start relays</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                                </ul> -->
+                            <!-- </div> -->
+                        <!-- </div> -->
+                    <!-- </div> -->
+                <!-- </div> -->
                 <!-- advantages -->
                 <!-- <div class="row">
                     <div class="col-3 hideMobile"></div>
@@ -551,7 +551,7 @@
                         </div>
                     </div>
                 </div> -->
-            </div>
+            <!-- </div> -->
             <div class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
@@ -583,7 +583,7 @@
                                 <div class="with">
                                 </div>
                                 <div class="costWithout">
-                                    <p class="price">$649.99</p>
+                                    <p class="price">$599.99</p>
                                 </div>
                                 <div class="costWith">
                                 </div>
@@ -682,7 +682,7 @@
                                 <div class="without"></div>
                                 <div class="with"></div>  
                                 <div class="costWithout">
-                                    <p class="price">$179.99</p>
+                                    <p class="price">$129.99</p>
                                 </div>
                                 <div class="costWith"></div>
                                 <div class="sep"> </div>
