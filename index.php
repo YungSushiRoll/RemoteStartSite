@@ -731,9 +731,9 @@
                     <div class="loc">
                         11848 Dorsett Rd Maryland Heights, MO 63043
                     </div>
-                    <div class="loc">
+                    <!-- <div class="loc">
                         505 Nathan Lane #3B Elkhorn, Wisconsin 53121
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
