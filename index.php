@@ -115,7 +115,7 @@
                     <div class="product">
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
-                            <img class="img-fluid" src="images/4105P.png" alt="Python 4105P">
+                            <img class="img-fluid" src="images/4105v.png" alt="Python 4105P">
                             <!-- <p style="font-family: 'Orbitron';">Python 4105P</p> -->
                         </fieldset>                 
                     </div>
@@ -332,7 +332,7 @@
                     <div class="product">
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>            
-                            <img class="img-fluid" src="images/4105v.png" alt="Python 3105P">
+                            <img class="img-fluid" src="images/python_3105P.jpg" alt="Python 3105P">
                             <!-- <p style="font-family: 'Orbitron';">Python 3105P | 460 Max</p> -->
                         </fieldset>                         
                     </div>
