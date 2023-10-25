@@ -110,7 +110,7 @@
     <!-- Starters DIV -->
     <div>
             <h2 class="text-left mt-3" id="remoteStarters">Remote Starters</h2>
-            <div class="container rounded pt-3 mb-3 bg-white">
+            <div hidden class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
