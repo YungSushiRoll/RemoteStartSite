@@ -563,6 +563,7 @@
                     </div>    
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LCD 2-Way 5 Button Security and Remote Start System - Installed</h3>
+                        <!-- Already commented out -->
                         <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">
@@ -574,6 +575,7 @@
                                 <br><br>
                                 Additionally, this unit has a greater 1-mile range vs. a standard ¼ mile range.     
                             </p>
+                            <!-- This was already commented out -->
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
                             start system to the vehicles</p> -->
@@ -593,6 +595,7 @@
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayCombo" aria-expanded="false" aria-controls="twoWayCombo">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
+                            <!-- Already commented out -->
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#comboAdv" aria-expanded="false" aria-controls="comboAdv">
                                 &darr; ADVANTAGES OVER 1-WAY &darr;
                             </button> -->
@@ -604,7 +607,8 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayCombo">
                             <div class="card-body">
-                            <!-- <div class="h4">Advantages</div> -->
+                                <!-- already commented out -->
+                                <!-- <div class="h4">Advantages</div> -->
                                 <p>
                                     LCD 2-Way Security and Remote Car Start System with lock / unlock and trunk pop features<br>
                                     Features 1-mile range, one 2-way remote control with a liquid-crystal display, and one 5-button 1-way remote control.
@@ -629,6 +633,7 @@
                     </div>
                 </div>
                 <!-- advantages -->
+                <!-- Already commented out -->
                 <!-- <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
@@ -650,6 +655,7 @@
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>            
                             <img class="img-fluid" src="images/dsm550.png" alt="Directed SmartStart DSM 550">
+                            <!-- already commented out -->
                             <!-- <p style="font-family: 'Orbitron';">Directed SmartStart Pro DSM 550</p> -->
                         </fieldset>                         
                     </div>
@@ -693,6 +699,7 @@
                         </div>
                     </div>
                 </div>
+                <!-- Already commented out -->
                 <!-- <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
@@ -731,6 +738,7 @@
                     <div class="loc">
                         11848 Dorsett Rd Maryland Heights, MO 63043
                     </div>
+                    <!-- already commented out -->
                     <!-- <div class="loc">
                         505 Nathan Lane #3B Elkhorn, Wisconsin 53121
                     </div> -->
