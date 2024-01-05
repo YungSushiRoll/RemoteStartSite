@@ -116,11 +116,13 @@
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
                             <img class="img-fluid" src="images/4105v.png" alt="Python 4105P">
+                            <!-- aco -->
                             <!-- <p style="font-family: 'Orbitron';">Python 4105P</p> -->
                         </fieldset>                 
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way 4 Button Remote Start System - Installed</h3>
+                        <!-- aco -->
                         <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">  
@@ -128,6 +130,7 @@
                                 to the vehicle and can hear the vehicle start or see the parking lights turn on, 
                                 indicating the vehicle started.
                             </p>
+                            <!-- aco -->
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
                             start system to the vehicles</p> -->
@@ -154,6 +157,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayRemote">
                             <div class="card-body">
+                                <!-- aco -->
                             <!-- <div class="h4">Advantages</div> -->
                                 <p>
                                     1-Way Remote car starting system with trunk pop, lock/unlock features.  Includes two 
@@ -179,18 +183,20 @@
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>                
                             <img class="img-fluid" src="images/4115P.png" alt="Python 4115P">
+                            <!-- already commented out -->
                             <!-- <p style="font-family: 'Orbitron';">Python 4115P</p> -->
                         </fieldset>                 
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">1-Way 1 Button Remote Start System - Installed</h3>
+                        <!-- already commented out -->
                         <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">1-way Remote Start Systems are perfectly adequate in situations where the user is close 
                                 to the vehicle and can hear the vehicle start or see the parking lights turn on, 
                                 indicating the vehicle started.
                             </p>    
-                            
+                            <!-- commeneted out already  -->
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
                             start system to the vehicles</p> -->
@@ -218,6 +224,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayRemote2">
                             <div class="card-body">
+                                <!-- already gone -->
                             <!-- <div class="h4">Advantages</div> -->
                                 <p>
                                     1-Way Remote car starting system. Includes two 
@@ -237,17 +244,20 @@
                     </div>
                 </div>
             </div>
-            <div class="container rounded pt-3 mb-3 bg-white">
+            <!-- hiding bc john asked 1/5/23 -->
+            <div hidden class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
                             <legend class="text-warning" style="font-family: Orbitron; font-weight:bold">Best</legend>                                    
-                            <img class="img-fluid" src="images/4806.png" alt="Python 4806P">                
+                            <img class="img-fluid" src="images/4806.png" alt="Python 4806P">
+                            <!-- commented out already -->
                             <!-- <p style="font-family: 'Orbitron';">Python 4806P</p> -->
                         </fieldset>               
                     </div>
                     <div class="product desc">
                         <h3 class="text-center" style="font-family: Orbitron; font-weight:bold;">LED 2-Way 5 Button Remote Start System - Installed</h3>
+                        <!-- commented out -->
                         <!-- <div class="h6 text-center" style="font-family: Orbitron;">- bypass module usually required* -</div> -->
                         <div>
                             <p class="itemDesc">
@@ -258,6 +268,7 @@
                                 Additionally, this unit has an expanded 1-mile range vs. a ¼ mile range 
                                 available with the 1-way remote starter.
                             </p>
+                            <!-- commented out -->
                             <!-- <p class="disc" style="font-size: 14px;">*Most vehicles require a data integration module 
                             for remote start installation. This allows for proper communication from the alarm/remote 
                             start system to the vehicles</p> -->
@@ -277,6 +288,7 @@
                             <button style="font-family: Orbitron;" class="btn btn-secondary featBtn featBtnAction" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemote" aria-expanded="false" aria-controls="twoWayRemote">
                                 &darr; KEY FEATURES AND SPECIFICATIONS &darr;
                             </button>
+                            <!-- commented out -->
                             <!-- <button style="font-family: Orbitron;" class="btn btn-secondary advBtn" type="button" data-bs-toggle="collapse" data-bs-target="#twoWayRemoteAdv" aria-expanded="false" aria-controls="twoWayRemoteAdv">
                                 &darr; ADVANTAGES OVER 1-WAY &darr;
                             </button> -->
@@ -288,6 +300,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="twoWayRemote">
                             <div class="card-body">
+                                <!-- commenetd out -->
                             <!-- <div class="h4">Advantages</div> -->
                                 <p>
                                     2-way Remote car starting system with lock/unlock and trunk pop features. Allows 
@@ -312,6 +325,7 @@
                     </div>
                 </div>
                 <!-- advantages -->
+                <!-- already commented out -->
                 <!-- <div class="row">
                     <div class="col-3 hideMobile"></div>
                     <div class="col-9 featMobile">
@@ -333,6 +347,7 @@
                         <fieldset class="border border-success mb-3 form-group rounded shadow-lg">
                             <legend class="text-success" style="font-family: Orbitron; font-weight:bold">Good</legend>            
                             <img class="img-fluid" src="images/python_3105P.jpg" alt="Python 3105P">
+                            <!-- already commented out -->
                             <!-- <p style="font-family: 'Orbitron';">Python 3105P | 460 Max</p> -->
                         </fieldset>                         
                     </div>
@@ -364,6 +379,7 @@
                     <div class="col-9 featMobile">
                         <div class="collapse" id="oneWayDetail">
                             <div class="card-body">
+                                <!-- already commented -->
                                 <!-- <div class="h4">Advantages</div> -->
                                 <p>
                                     1-way entry-level security system with two 4-button remote controls. 
@@ -469,6 +485,9 @@
         <!-- Secuirty & Starters DIV -->
         <div>
             <h2 class="text-left" id="securityRemoteStart">Security with Remote Starter</h2>
+            <div class="container rounded pt-3 mb-3 bg-white">
+                <h3 class="text-center pb-3" style="font-family: Orbitron; font-weight:bold;">No Security devices available at the moment</h3>
+            </div>
             <!-- <div class="container rounded pt-3 mb-3 bg-white"> -->
                 <!-- <div class="row"> -->
                     <!-- <div class="product"> -->
@@ -552,7 +571,8 @@
                     </div>
                 </div> -->
             <!-- </div> -->
-            <div class="container rounded pt-3 mb-3 bg-white">
+            <!-- hiding bc john asked 1/5/23 -->
+            <div hidden class="container rounded pt-3 mb-3 bg-white">
                 <div class="row">
                     <div class="product">
                         <fieldset class="border border-warning mb-3 form-group rounded shadow-lg">
